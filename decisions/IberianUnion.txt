@@ -35,7 +35,10 @@ form_iberia = {
 			set_country_flag = iberian_union
 			any_country = {
 				limit = {
-					tag = CAT
+					OR = {
+						tag = CAT
+						tag = ARA
+					}
 					OR = {
 						in_sphere = THIS
 						vassal_of = THIS
