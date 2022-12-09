@@ -33,26 +33,23 @@ form_iberia = {
 		effect = {
 			prestige = 20
 			set_country_flag = iberian_union
+			change_tag = IBR
 			any_country = {
 				limit = {
 					OR = {
 						tag = CAT
 						tag = ARA
+						tag = ARI
 					}
 					OR = {
 						in_sphere = THIS
 						vassal_of = THIS
 					}
 				}
-				annex_to = THIS
-			}
-			any_owned = {
-				limit = {
-					is_core = CAT
-				}
-				add_core = THIS
+				country_event = 333458
 			}
 			add_accepted_culture = catalan
+			CAT = { all_core = { add_core = IBR } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -61,8 +58,10 @@ form_iberia = {
 	
 	integrate_navarra = { 
 	potential = {
-			tag = SPA
-			has_country_flag = iberian_union
+			OR = 
+				tag = SPA
+				has_country_flag = iberian_union
+			}
 			NOT = { has_country_flag = basqueland }
 		}
 		
