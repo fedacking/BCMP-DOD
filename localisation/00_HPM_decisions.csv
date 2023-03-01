@@ -3508,3 +3508,5 @@ option_disable_DVG_badboy_title;Disable Divergences Infamy Reduction;;;;;;;;;;;;
 option_disable_DVG_badboy_desc;Disables the -0,4 infamy modifier for Great Powers and the -0,2 infamy modifier for the rest of countries. Not thoroughly tested, use at your own risk.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 integrate_pomeranians_title;Intergrate the Pomeranians;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 integrate_pomeranians_desc;The Pomeranian people have been under our rule for a long time, with the proper institutional capabilities we can fully intergrate them.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+accept_ROM_title;Abolish the Principality of Transylvania;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+accept_ROM_desc;To consolidate our southern border we need to dissolve the local principalities and absorb it into the Hungarian Crown;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
