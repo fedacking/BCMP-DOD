@@ -17,143 +17,143 @@
 personality = {
 	no_personality = {
 	}
-	att-3 = {
+	attminus3 = {
 		attack = -3
 	}
-	1att-2 = {
+	attminus21 = {
 		attack = -2
 	}
-	2att-2 = {
+	attminus22 = {
 		attack = -2
 	}
-	3att-2 = {
+	attminus23 = {
 		attack = -2
 	}
-	1att-1 = {
+	attminus11 = {
 		attack = -1
 	}
-	2att-1 = {
+	attminus12 = {
 		attack = -1
 	}
-	3att-1 = {
+	attminus13 = {
 		attack = -1
 	}
-	4att-1 = {
+	attminus14 = {
 		attack = -1
 	}
-	5att-1 = {
+	attminus15 = {
 		attack = -1
 	}
-	1att0 = {
+	att01 = {
 	}
-	2att0 = {
+	att02 = {
 	}
-	3att0 = {
+	att03 = {
 	}
-	4att0 = {
+	att04 = {
 	}
-	5att0 = {
+	att05 = {
 	}
-	6att0 = {
+	att06 = {
 	}
-	7att0 = {
+	att07 = {
 	}
-	8att0 = {
+	att08 = {
 	}
-	9att0 = {
+	att09 = {
 	}
-	10att0 = {
+	att010 = {
 	}
-	11att0 = {
+	att011 = {
 	}
-	12att0 = {
+	att012 = {
 	}
-	13att0 = {
+	att013 = {
 	}
-	14att0 = {
+	att014 = {
 	}
-	15att0 = {
+	att015 = {
 	}
-	16att0 = {
+	att016 = {
 	}
-	17att0 = {
+	att017 = {
 	}
-	18att0 = {
+	att018 = {
 	}
-	19att0 = {
+	att019 = {
 	}
-	20att0 = {
+	att020 = {
 	}
-	1att+1 = {
+	att11 = {
 		attack = 1
 	}
-	2att+1 = {
+	att12 = {
 		attack = 1
 	}
-	3att+1 = {
+	att13 = {
 		attack = 1
 	}
-	4att+1 = {
+	att14 = {
 		attack = 1
 	}
-	5att+1 = {
+	att15 = {
 		attack = 1
 	}
-	6att+1 = {
+	att16 = {
 		attack = 1
 	}
-	7att+1 = {
+	att17 = {
 		attack = 1
 	}
-	8att+1 = {
+	att18 = {
 		attack = 1
 	}
-	9att+1 = {
+	att19 = {
 		attack = 1
 	}
-	10att+1 = {
+	att110 = {
 		attack = 1
 	}
-	1att+2 = {
+	att21 = {
 		attack = 2
 	}
-	2att+2 = {
+	att22 = {
 		attack = 2
 	}
-	3att+2 = {
+	att23 = {
 		attack = 2
 	}
-	4att+2 = {
+	att24 = {
 		attack = 2
 	}
-	5att+2 = {
+	att25 = {
 		attack = 2
 	}
-	6att+2 = {
+	att26 = {
 		attack = 2
 	}
-	7att+2 = {
+	att27 = {
 		attack = 2
 	}
-	8att+2 = {
+	att28 = {
 		attack = 2
 	}
-	1att+3 = {
+	att31 = {
 		attack = 3
 	}
-	2att+3 = {
+	att32 = {
 		attack = 3
 	}
-	3att+3 = {
+	att33 = {
 		attack = 3
 	}
-	1att+4 = {
+	att41 = {
 		attack = 4
 	}
-	2att+4 = {
+	att42 = {
 		attack = 4
 	}
-	1att+5 = {
+	att5 = {
 		attack = 5
 	}
 }
@@ -167,122 +167,122 @@ background = {
 		speed = -0.10
 		experience = -0.5
 	}
-	1def-2 = {
+	defminus21 = {
 		defence = -2
 	}
-	2def-2 = {
+	defminus22 = {
 		defence = -2
 	}
-	1def-1 = {
+	defminus11 = {
 		defence = -1
 	}
-	2def-1 = {
+	defminus12 = {
 		defence = -1
 	}
-	3def-1 = {
+	defminus13 = {
 		defence = -1
 	}
-	1def0 = {
+	def01 = {
 	}
-	2def0 = {
+	def02 = {
 	}
-	3def0 = {
+	def03 = {
 	}
-	4def0 = {
+	def04 = {
 	}
-	5def0 = {
+	def05 = {
 	}
-	6def0 = {
+	def06 = {
 	}
-	7def0 = {
+	def07 = {
 	}
-	8def0 = {
+	def08 = {
 	}
-	9def0 = {
+	def09 = {
 	}
-	10def0 = {
+	def010 = {
 	}
-	11def0 = {
+	def011 = {
 	}
-	12def0 = {
+	def012 = {
 	}
-	13def0 = {
+	def013 = {
 	}
-	14def0 = {
+	def014 = {
 	}
-	15def0 = {
+	def015 = {
 	}
-	16def0 = {
+	def016 = {
 	}
-	17def0 = {
+	def017 = {
 	}
-	18def0 = {
+	def018 = {
 	}
-	19def0 = {
+	def019 = {
 	}
-	20def0 = {
+	def020 = {
 	}
-	21def0 = {
+	def021 = {
 	}
-	22def0 = {
+	def022 = {
 	}
-	23def0 = {
+	def023 = {
 	}
-	24def0 = {
+	def024 = {
 	}
-	25def0 = {
+	def025 = {
 	}
-	26def0 = {
+	def026 = {
 	}
-	27def0 = {
+	def027 = {
 	}
-	28def0 = {
+	def028 = {
 	}
-	29def0 = {
+	def029 = {
 	}
-	30def0 = {
+	def030 = {
 	}
-	31def0 = {
+	def031 = {
 	}
-	32def0 = {
+	def032 = {
 	}
-	1def+1 = {
+	def11 = {
 		defence = 1
 	}
-	2def+1 = {
+	def12 = {
 		defence = 1
 	}
-	3def+1 = {
+	def13 = {
 		defence = 1
 	}
-	4def+1 = {
+	def14 = {
 		defence = 1
 	}
-	5def+1 = {
+	def15 = {
 		defence = 1
 	}
-	6def+1 = {
+	def16 = {
 		defence = 1
 	}
-	7def+1 = {
+	def17 = {
 		defence = 1
 	}
-	1def+2 = {
+	def21 = {
 		defence = 2
 	}
-	2def+2 = {
+	def22 = {
 		defence = 2
 	}
-	3def+2 = {
+	def23 = {
 		defence = 2
 	}
-	1def+3 = {
+	def31 = {
 		defence = 3
 	}
-	2def+3 = {
+	def32 = {
 		defence = 3
 	}
-	1def+4 = {
+	def4 = {
 		defence = 4
 	}
 }
