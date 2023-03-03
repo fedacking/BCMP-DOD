@@ -17,8 +17,137 @@
 personality = {
 	no_personality = {
 	}
-	attminus3 = {
-		attack = -3
+	defminus21 = {
+		defence = -2
+	}
+	defminus22 = {
+		defence = -2
+	}
+	defminus11 = {
+		defence = -1
+	}
+	defminus12 = {
+		defence = -1
+	}
+	defminus13 = {
+		defence = -1
+	}
+	def01 = {
+	}
+	def02 = {
+	}
+	def03 = {
+	}
+	def04 = {
+	}
+	def05 = {
+	}
+	def06 = {
+	}
+	def07 = {
+	}
+	def08 = {
+	}
+	def09 = {
+	}
+	def010 = {
+	}
+	def011 = {
+	}
+	def012 = {
+	}
+	def013 = {
+	}
+	def014 = {
+	}
+	def015 = {
+	}
+	def016 = {
+	}
+	def017 = {
+	}
+	def018 = {
+	}
+	def019 = {
+	}
+	def020 = {
+	}
+	def021 = {
+	}
+	def022 = {
+	}
+	def023 = {
+	}
+	def024 = {
+	}
+	def025 = {
+	}
+	def026 = {
+	}
+	def027 = {
+	}
+	def028 = {
+	}
+	def029 = {
+	}
+	def030 = {
+	}
+	def031 = {
+	}
+	def032 = {
+	}
+	def11 = {
+		defence = 1
+	}
+	def12 = {
+		defence = 1
+	}
+	def13 = {
+		defence = 1
+	}
+	def14 = {
+		defence = 1
+	}
+	def15 = {
+		defence = 1
+	}
+	def16 = {
+		defence = 1
+	}
+	def17 = {
+		defence = 1
+	}
+	def21 = {
+		defence = 2
+	}
+	def22 = {
+		defence = 2
+	}
+	def23 = {
+		defence = 2
+	}
+	def31 = {
+		defence = 3
+	}
+	def32 = {
+		defence = 3
+	}
+	def4 = {
+		defence = 4
+	}
+}
+
+background = {
+	no_background = {
+		attack = -2
+		defence = -2
+		morale = -0.20
+		organisation = -0.20
+		speed = -0.10
+		experience = -0.5
+	}
+	mountaineer = {
+		attack = -4
 	}
 	attminus21 = {
 		attack = -2
@@ -155,134 +284,5 @@ personality = {
 	}
 	att5 = {
 		attack = 5
-	}
-}
-
-background = {
-	no_background = {
-		attack = -2
-		defence = -2
-		morale = -0.20
-		organisation = -0.20
-		speed = -0.10
-		experience = -0.5
-	}
-	defminus21 = {
-		defence = -2
-	}
-	defminus22 = {
-		defence = -2
-	}
-	defminus11 = {
-		defence = -1
-	}
-	defminus12 = {
-		defence = -1
-	}
-	defminus13 = {
-		defence = -1
-	}
-	def01 = {
-	}
-	def02 = {
-	}
-	def03 = {
-	}
-	def04 = {
-	}
-	def05 = {
-	}
-	def06 = {
-	}
-	def07 = {
-	}
-	def08 = {
-	}
-	def09 = {
-	}
-	def010 = {
-	}
-	def011 = {
-	}
-	def012 = {
-	}
-	def013 = {
-	}
-	def014 = {
-	}
-	def015 = {
-	}
-	def016 = {
-	}
-	def017 = {
-	}
-	def018 = {
-	}
-	def019 = {
-	}
-	def020 = {
-	}
-	def021 = {
-	}
-	def022 = {
-	}
-	def023 = {
-	}
-	def024 = {
-	}
-	def025 = {
-	}
-	def026 = {
-	}
-	def027 = {
-	}
-	def028 = {
-	}
-	def029 = {
-	}
-	def030 = {
-	}
-	def031 = {
-	}
-	def032 = {
-	}
-	def11 = {
-		defence = 1
-	}
-	def12 = {
-		defence = 1
-	}
-	def13 = {
-		defence = 1
-	}
-	def14 = {
-		defence = 1
-	}
-	def15 = {
-		defence = 1
-	}
-	def16 = {
-		defence = 1
-	}
-	def17 = {
-		defence = 1
-	}
-	def21 = {
-		defence = 2
-	}
-	def22 = {
-		defence = 2
-	}
-	def23 = {
-		defence = 2
-	}
-	def31 = {
-		defence = 3
-	}
-	def32 = {
-		defence = 3
-	}
-	def4 = {
-		defence = 4
 	}
 }
