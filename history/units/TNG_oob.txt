@@ -7,15 +7,15 @@ leader = {
 	name = "Zheng Jing"
 	type = land
 	date = 1836.1.1
-	personality = undisciplined
-	background = hussar_school
+	personality = def11
+	background = att11
 }   
 leader = {
 	name = "Li Zicheng"
 	type = land
 	date = 1836.1.1
-	personality = choleric
-	background = sinner
+	personality = def01
+	background = att01
 }
 
 
@@ -23,8 +23,8 @@ leader = {
 	name = "Zheng Keshuang"
 	type = sea
 	date = 1836.1.1
-	personality = shrinking_violet
-	background = aristocrat
+	personality = def11
+	background = att11
 }
 
 army = {

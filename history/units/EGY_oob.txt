@@ -2,16 +2,16 @@ leader = {
 	name = "Saad Zaghlul"
 	type = land
 	date = 1836.1.1
-	personality = fearsome
-	background = sad_sack
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Mohammed Anwar El-Sadat"
 	type = land
 	date = 1836.1.1
-	personality = cruel
-	background = inventor
+	personality = def01
+	background = att01
 }
 
 army = {

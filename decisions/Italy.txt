@@ -511,11 +511,8 @@ political_decisions = {
 		allow = { 
 		state_n_government = 1
 		functionalism = 1
-		NOT = { GRE = { exists = yes } }
-		}
 		
-		effect = { 
-		prestige = -10 
+		effect = {
 	add_accepted_culture = greek
 	government = democracy 
 	ruling_party_ideology = liberal

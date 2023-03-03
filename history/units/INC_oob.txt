@@ -7,8 +7,8 @@ leader = {
 	name = "Sapa Inca"
 	type = land
 	date = 1836.1.1
-	personality = arrogant
-	background = old_school
+	personality = def11
+	background = att11
 }
 
 army = {

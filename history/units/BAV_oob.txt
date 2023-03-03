@@ -2,16 +2,16 @@ leader = {
 	name = "Anselm Polke"
 	type = land
 	date = 1836.1.1
-	personality = inspiring
-	background = rising_star
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Kurt Dietrich"
 	type = land
 	date = 1836.1.1
-	personality = arrogant
-	background = member_of_elite
+	personality = def01
+	background = att01
 }
 
 army = {

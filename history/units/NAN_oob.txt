@@ -2,16 +2,16 @@ leader = {
 	name = "Arthur Brown"
 	type = land
 	date = 1836.1.1
-	personality = persistant
-	background = entrepreneur
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "John Silkington"
 	type = sea
 	date = 1836.1.1
-	personality = cool_minded
-	background = bureaucrat
+	personality = def11
+	background = att11
 }
 
 army = {

@@ -72,40 +72,40 @@ leader = {
 	name = "Petr Voskovec"
 	type = land
 	date = 1836.1.1
-	personality = pisspoor
-	background = son_of_hero
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Jan Niklas"
 	type = land
 	date = 1836.1.1
-	personality = efficient
-	background = generals_aide
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Ivan Gellner"
 	type = land
 	date = 1836.1.1
-	personality = resolute
-	background = drillmaster
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Jakub Ivanov"
 	type = land
 	date = 1836.1.1
-	personality = keen
-	background = school_of_offense
+	personality = def01
+	background = att01
 }
 
 leader = {
 	name = "Hans Corinth"
 	type = land
 	date = 1836.1.1
-	personality = skilled
-	background = mercenary
+	personality = def01
+	background = att01
 }
 
 army = {

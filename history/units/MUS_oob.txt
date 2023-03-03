@@ -2,24 +2,24 @@ leader = {
 	name = "Nikolay Kurakin"
 	type = land
 	date = 1836.1.1
-	personality = genius
-	background = aristocrat
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Alexander Cherenkov"
 	type = land
 	date = 1836.1.1
-	personality = heroic
-	background = brilliant_strategist
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Lazar Lenin"
 	type = land
 	date = 1836.1.1
-	personality = ballsy
-	background = natural_born_leader
+	personality = def01
+	background = att01
 }
 
 army = {

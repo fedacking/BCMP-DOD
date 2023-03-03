@@ -2,8 +2,8 @@ leader = {
 	name = "Kelath Narayanan"
 	type = land
 	date = 1836.1.1
-	personality = active_p
-	background = old_school
+	personality = def11
+	background = att11
 }
 
 army = {

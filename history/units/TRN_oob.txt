@@ -2,8 +2,8 @@ leader = {
 	name = "Paul Kruger"
 	type = land
 	date = 1836.1.1
-	personality = vicious
-	background = incompetent
+	personality = def11
+	background = att11
 }
 
 army = {

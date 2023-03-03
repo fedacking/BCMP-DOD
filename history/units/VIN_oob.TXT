@@ -15,16 +15,16 @@ leader = {
 	name = "Leif Torstensson"
 	type = land
 	date = 1836.1.1
-	personality = imaginative
-	background = sinner
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Hugo Welfer"
 	type = sea
 	date = 1836.1.1
-	personality = rebellious
-	background = sad_sack
+	personality = def11
+	background = att11
 }
 
 army = {

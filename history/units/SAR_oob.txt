@@ -2,24 +2,24 @@ leader = {
 	name = "Alessandro Scala"
 	type = land
 	date = 1836.1.1
-	personality = charismatic
-	background = son_of_hero
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Carlo Fabrizi"
 	type = land
 	date = 1836.1.1
-	personality = diligent
-	background = generals_aide
+	personality = def01
+	background = att01
 }
 
 leader = {
 	name = "Ernesto Ascari"
 	type = land
 	date = 1836.1.1
-	personality = quixotic
-	background = poet
+	personality = def01
+	background = att01
 }
 
 army = {

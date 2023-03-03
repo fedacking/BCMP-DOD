@@ -7,39 +7,39 @@ leader = {
 	name = "Hong Xiuquan"
 	type = land
 	date = 1836.1.1
-	personality = imaginative
-	background = aristocrat
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Yang Xiuqing"
 	type = land
 	date = 1836.1.1
-	personality = indecisive
-	background = renowned_adventurer
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Xiao Chaogui"
 	type = land
 	date = 1836.1.1
-	personality = secretive
-	background = rising_star
+	personality = def01
+	background = att01
 }
 leader = {
 	name = "Huang Rui-Song"
 	type = land
 	date = 1836.1.1
-	personality = maladroit
-	background = exranker
+	personality = def01
+	background = att01
 }
 
 leader = {
 	name = "Chiang Ching-kuo"
 	type = land
 	date = 1836.1.1
-	personality = bastard
-	background = clerk
+	personality = def01
+	background = att01
 }
 
 army = {

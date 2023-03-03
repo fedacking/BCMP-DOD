@@ -2,8 +2,8 @@ leader = {
 	name = "Selamet III Giray"
 	type = land
 	date = 1836.1.1
-	personality = tyrant
-	background = member_of_elite
+	personality = def11
+	background = att11
 }
 
 army = {

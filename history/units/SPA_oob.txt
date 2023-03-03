@@ -27,8 +27,8 @@ leader = {
 	name = "Francisco Aguirre"
 	type = land
 	date = 1836.1.1
-	personality = gallant
-	background = poet
+	personality = def11
+	background = att11
 }
 
 
@@ -36,8 +36,8 @@ leader = {
 	name = "Julio Segura"
 	type = land
 	date = 1836.1.1
-	personality = irresponsible
-	background = ambitious_careerist
+	personality = def11
+	background = att11
 }
 
 
@@ -45,8 +45,8 @@ leader = {
 	name = "Luis Atanes"
 	type = land
 	date = 1836.1.1
-	personality = quixotic
-	background = amateur
+	personality = def01
+	background = att01
 }
 
 
@@ -54,8 +54,8 @@ leader = {
 	name = "Pablo Elcano"
 	type = sea
 	date = 1836.1.1
-	personality = impetuous
-	background = expert_raider
+	personality = def11
+	background = att11
 }
 
 
@@ -63,8 +63,8 @@ leader = {
 	name = "Salvador Pizarro"
 	type = sea
 	date = 1836.1.1
-	personality = tactful
-	background = elder_statesman
+	personality = def01
+	background = att01
 }
 
 
@@ -72,8 +72,8 @@ leader = {
 	name = "Ignacio Vega"
 	type = sea
 	date = 1836.1.1
-	personality = deeply_religious
-	background = drillmaster
+	personality = def01
+	background = att01
 }
 
 #Army

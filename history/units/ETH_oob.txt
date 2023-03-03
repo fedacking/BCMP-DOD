@@ -2,16 +2,16 @@ leader = {
 	name = "Kassa Hailu"
 	type = land
 	date = 1836.1.1
-	personality = machiavellian
-	background = mercenary
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Askala Maryam"
 	type = land
 	date = 1836.1.1
-	personality = inept
-	background = wounded_veteran
+	personality = def01
+	background = att01
 }
 
 army = {

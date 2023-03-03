@@ -47,72 +47,72 @@ leader = {
 	name = "Andrew Wright"
 	type = land
 	date = 1836.1.1
-	personality = audacious
-	background = nationalist
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Antonin Adjani"
 	type = land
 	date = 1836.1.1
-	personality = soldierly
-	background = war_college
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Jean-Pierre Bonnaire"
 	type = land
 	date = 1836.1.1
-	personality = charismatic
-	background = aristocrat
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Charles Casta"
 	type = land
 	date = 1836.1.1
-	personality = paranoid
-	background = disgraced
+	personality = def01
+	background = att01
 }
 
 leader = {
 	name = "Marcel Seigner"
 	type = land
 	date = 1836.1.1
-	personality = calm
-	background = old_school
+	personality = def01
+	background = att01
 }
 
 leader = {
 	name = "Henri Garnier"
 	type = land
 	date = 1836.1.1
-	personality = humanitarian
-	background = gifted_administrator
+	personality = def01
+	background = att01
 }
 
 leader = {
 	name = "Pierre Breton"
 	type = land
 	date = 1836.1.1
-	personality = harsh_disciplinarian
-	background = hated
+	personality = def01
+	background = att01
 }
 
 leader = {
 	name = "Charles Diderot"
 	type = sea
 	date = 1836.1.1
-	personality = lilylivered
-	background = sycophant
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Jules Char"
 	type = sea
 	date = 1836.1.1
-	personality = forgiving
-	background = intellectual
+	personality = def01
+	background = att01
 }
 
 leader = {

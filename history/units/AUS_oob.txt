@@ -4,8 +4,8 @@ leader = {
 	name = "Wilhelm Adler"
 	type = land
 	date = 1836.1.1
-	personality = apathetic
-	background = wounded_veteran
+	personality = def11
+	background = att11
 }
 
 #Army

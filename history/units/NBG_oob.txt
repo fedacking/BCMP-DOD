@@ -2,24 +2,24 @@ leader = {
 	name = "Philipp de Vries"
 	type = land
 	date = 1836.1.1
-	personality = hellbent
-	background = school_of_the_bayonet
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Jean Rousseau"
 	type = land
 	date = 1836.1.1
-	personality = charismatic
-	background = inventor
+	personality = def01
+	background = att01
 }
 
 leader = {
 	name = "Alexander Galen"
 	type = sea
 	date = 1836.1.1
-	personality = merciless
-	background = pawn
+	personality = def11
+	background = att11
 }
 
 army = {

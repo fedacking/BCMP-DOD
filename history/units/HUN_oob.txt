@@ -6,16 +6,16 @@ leader = {
 	name = "Gyula Pauk"
 	type = land
 	date = 1836.1.1
-	personality = bigoted
-	background = incompetent
+	personality = def11
+	background = att11
 }
 
 leader = {
 	name = "Laszlo Pauk"
 	type = land
 	date = 1836.1.1
-	personality = careful
-	background = war_college
+	personality = def11
+	background = att11
 }
 
 army = {

@@ -2,8 +2,8 @@ leader = {
 	name = "Piet Retief"
 	type = land
 	date = 1836.1.1
-	personality = imaginative
-	background = nationalist
+	personality = def11
+	background = att11
 }
 
 army = {
