@@ -415,6 +415,7 @@ hormuz_strait = {
 DVG_badboy_1 = { 
 	trigger = {
 		NOT = { has_global_flag = DVG_infamy }
+		has_global_flag = DVG_infamy
 		is_greater_power = yes 
 	}
 	badboy = -0.30 
@@ -425,6 +426,7 @@ DVG_badboy_1 = {
 DVG_badboy_2 = { 
 	trigger = {
 		NOT = { has_global_flag = DVG_infamy }
+		has_global_flag = DVG_infamy
 		is_greater_power = no 
 	}
 	badboy = -0.20 
