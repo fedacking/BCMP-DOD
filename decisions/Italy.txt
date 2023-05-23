@@ -307,7 +307,7 @@ political_decisions = {
 	}
 
 	etrurian_manifesto = {
-	picture = council_Etruria
+		picture = council_Etruria
 		potential = {
 			tag = TUS
 			has_global_flag = death_of_venice
@@ -378,59 +378,57 @@ political_decisions = {
 		}
 	}
 	
-	build_the_ponte_liberta = { 
-	
-		picture = ponte_liberta
-	
+	build_the_ponte_liberta = { 	
+		picture = ponte_liberta	
 		potential = { 
-		NOT = { has_global_flag = ponte_venice }
-		OR = { tag = VEN tag = ARI tag = ITA}
-		owns = 729 
-		}
-		
-		allow = { 
-		cheap_iron = 1 
-		iron_railroad = 1 
-		}
-		
+			NOT = { has_global_flag = ponte_venice }
+			OR = {
+				tag = VEN
+				tag = ARI
+				tag = ITA
+			}
+			owns = 729 
+		}		
+		allow = {
+			cheap_iron = 1 
+			iron_railroad = 1 
+		}		
 		effect = { 
-		set_global_flag = ponte_venice
-		prestige = 10
-		729 = {
+			set_global_flag = ponte_venice
+			prestige = 10
+			729 = {
 				life_rating = 3
 				add_province_modifier = {
-				    	name = gateway_to_harbor
-						duration = 2500
-	 				} 
+				    name = gateway_to_harbor
+					duration = 2500
+	 			} 
 			}
 		}
 	}
 	
-	risanamento_VEN = { 
-	
-		picture = Venice_panorama
-	
+	risanamento_VEN = {
+		picture = Venice_panorama	
 		potential = { 
-		NOT = { has_global_flag = ven_building }
-		OR = { 
-		tag = VEN tag = ITA tag = ARI 	
+			NOT = { has_global_flag = ven_building }
+			OR = { 
+				tag = VEN
+				tag = ITA
+				tag = ARI 	
 			}
-		owns = 729 
-		}
-		
+			owns = 729 
+		}		
 		allow = { 
-		medicine = 1 
-		cheap_iron = 1 
-		OR = { 
-		realism = 1 
-		state_n_government = 1 
+			medicine = 1 
+			cheap_iron = 1 
+			OR = { 
+				realism = 1 
+				state_n_government = 1 
 			}
-		}
-		
+		}		
 		effect = { 
-		prestige = 20 
-		set_global_flag = ven_building
-		729 = {
+			prestige = 20 
+			set_global_flag = ven_building
+			729 = {
 				life_rating = 5
 			}
 		}
@@ -496,38 +494,35 @@ political_decisions = {
 	}
 	
 	integrate_greeks = { 
-		potential = { 
+		potential = {
 			primary_culture = venetian
 			NOT = { has_country_flag = greek_integration }
 			OR {
-			owns = 834
-			owns = 839
-			owns = 831
-			owns = 820
-			owns = 805
+				owns = 834
+				owns = 839
+				owns = 831
+				owns = 820
+				owns = 805
 			}
-		}
-		
-		allow = { 
-		state_n_government = 1
-		functionalism = 1
-		
+		}		
+		allow = {
+			state_n_government = 1
+			functionalism = 1
+		}		
 		effect = {
-	add_accepted_culture = greek
-	government = democracy 
-	ruling_party_ideology = liberal
-	political_reform = universal_voting
-	political_reform = population_equal_weight
-	political_reform = yes_meeting
-	political_reform = free_press
-	political_reform = all_voting_pops
-	set_country_flag = greek_integration 
-	GRE = {
+			add_accepted_culture = greek
+			government = democracy
+			political_reform = universal_voting
+			political_reform = population_equal_weight
+			political_reform = yes_meeting
+			political_reform = free_press
+			political_reform = all_voting_pops
+			set_country_flag = greek_integration 
+			GRE = {
 				all_core = {
 					add_core = THIS
 				}
 			}
-		}
-	
+		}	
 	}
 }
