@@ -123,577 +123,535 @@ leader = {
 }
 
 army = {
-	name = "Army of Danemark"
-	location = 528
+	name = "Army of the Eastern Indies"
+	location = 1384
 	regiment = {
-		name= "1.1. Infanteridivision"
-		type = infantry
-		home = 367
+		name= "1. Husar"
+		type = hussar
+		home = 2213
 	}
-
 	regiment = {
-		name= "2.1. Infanteridivision"
-		type = infantry
-		home = 367
-	}
-
-	regiment = {
-		name= "3.1. Infanteridivision"
-		type = infantry
-		home = 367
-	}
-
-	regiment = {
-		name= "4.1. Infanteridivision"
+		name= "1. Artilleridivision"
 		type = artillery
-		home = 544
+		home = 1463
 	}
-
 	regiment = {
-		name= "1.2. Infanteridivision"
+		name= "1. Infanteridivision"
 		type = infantry
-		home = 372
-	}
-
-	regiment = {
-		name= "2.2. Infanteridivision"
-		type = infantry
-		home = 372
-	}
-
-	regiment = {
-		name= "1.1. Kavalleridivision"
-		type = hussar
-		home = 544
-	}
-
-	regiment = {
-		name= "2.1. Kavalleridivision"
-		type = hussar
-		home = 544
-	}
-
-	regiment = {
-		name= "3.1. Kavalleridivision"
-		type = hussar
-		home = 544
-	}
-
-}
-
-
-army = {
-	name = "Army of Germany"
-	location = 546
-	regiment = {
-		name= "1.1. Infanteridivision"
-		type = infantry
-		home = 372
-	}
-
-	regiment = {
-		name= "2.1. Infanteridivision"
-		type = infantry
-		home = 372
-	}
-
-	regiment = {
-		name= "3.1. Infanteridivision"
-		type = infantry
-		home = 372
-	}
-
-	regiment = {
-		name= "4.1. Infanteridivision"
-		type = artillery
-		home = 369
-	}
-
-	regiment = {
-		name= "1.2. Infanteridivision"
-		type = infantry
-		home = 330
-	}
-
-	regiment = {
-		name= "2.2. Infanteridivision"
-		type = infantry
-		home = 322
-	}
-
-	regiment = {
-		name= "1.1. Kavalleridivision"
-		type = hussar
-		home = 354
-	}
-
-	regiment = {
-		name= "2.1. Kavalleridivision"
-		type = hussar
-		home = 369
-	}
-
-	regiment = {
-		name= "3.1. Kavalleridivision"
-		type = hussar
-		home = 369
+		home = 1999
 	}
 }
 
 army = {
-	name = "Army of the Baltic"
-	location = 354
+	name = "Army of Scotland"
+	location = 271
 	regiment = {
-		name= "1.1. Infanteridivision"
-		type = infantry
-		home = 322
+		name= "1. Husar"
+		type = hussar
+		home = 266
 	}
-
 	regiment = {
-		name= "2.1. Infanteridivision"
-		type = infantry
-		home = 313
+		name= "1. Artilleridivision"
+		type = artillery
+		home = 269
 	}
-
 	regiment = {
-		name= "3.1. Infanteridivision"
-		type = infantry
+		name= "2. Artilleridivision"
+		type = artillery
+		home = 308
+	}
+	regiment = {
+		name= "3. Artilleridivision"
+		type = artillery
 		home = 309
 	}
-
 	regiment = {
-		name= "4.1. Infanteridivision"
+		name= "4. Artilleridivision"
+		type = artillery
+		home = 322
+	}
+	regiment = {
+		name= "5. Artilleridivision"
+		type = artillery
+		home = 324
+	}
+}
+
+army = {
+	name = "Army of Denmark"
+	location = 372
+	regiment = {
+		name= "1. Husar"
+		type = hussar
+		home = 372
+	}
+	regiment = {
+		name= "1. Artilleridivision"
+		type = artillery
+		home = 328
+	}
+	regiment = {
+		name= "2. Artilleridivision"
+		type = artillery
+		home = 372
+	}
+	regiment = {
+		name= "3. Artilleridivision"
+		type = artillery
+		home = 343
+	}
+	regiment = {
+		name= "4. Artilleridivision"
+		type = artillery
+		home = 332
+	}
+	regiment = {
+		name= "5. Artilleridivision"
+		type = artillery
+		home = 366
+	}
+}
+
+army = {
+	name = "Army of Pomerania"
+	location = 546
+	regiment = {
+		name= "1. Husar"
+		type = hussar
+		home = 330
+	}
+	regiment = {
+		name= "1. Artilleridivision"
+		type = artillery
+		home = 546
+	}
+	regiment = {
+		name= "2. Artilleridivision"
+		type = artillery
+		home = 680
+	}
+	regiment = {
+		name= "3. Artilleridivision"
+		type = artillery
+		home = 679
+	}
+	regiment = {
+		name= "4. Artilleridivision"
+		type = artillery
+		home = 548
+	}
+	regiment = {
+		name= "5. Artilleridivision"
+		type = artillery
+		home = 544
+	}
+}
+
+army = {
+	name = "Army of Baltic"
+	location = 354
+	regiment = {
+		name= "1. Artilleridivision"
 		type = artillery
 		home = 349
 	}
-
 	regiment = {
-		name= "1.2. Infanteridivision"
-		type = infantry
-		home = 308
+		name= "2. Artilleridivision"
+		type = artillery
+		home = 354
 	}
-
 	regiment = {
-		name= "2.1. Kavalleridivision"
-		type = hussar
-		home = 2214
+		name= "3. Artilleridivision"
+		type = artillery
+		home = 334
 	}
-
 	regiment = {
-		name= "3.1. Kavalleridivision"
-		type = hussar
-		home = 343
+		name= "4. Artilleridivision"
+		type = artillery
+		home = 370
 	}
-}
-
-army = {
-	name = "Army of the Eastern Indies"
-	location = 1433
 	regiment = {
-		name= "1.1. Infanteridivision"
-		type = infantry
-		home = 1907
+		name= "5. Artilleridivision"
+		type = artillery
+		home = 369
 	}
-
-	regiment = {
-		name= "2.1. Infanteridivision"
-		type = infantry
-		home = 1291
-	}
-
-	regiment = {
-		name= "3.1. Infanteridivision"
-		type = infantry
-		home = 1291
-	}
-
-
-	regiment = {
-		name= "2.1. Kavalleridivision"
-		type = hussar
-		home = 1291
-	}
-
-}
-
-army = {
-	name = "Finnish infantry"
-	location = 343
-	regiment = {
-		name= "1.1. Infanteridivision"
-		type = infantry
-		home = 318
-	}
-
-	regiment = {
-		name= "2.1. Infanteridivision"
-		type = infantry
-		home = 343
-	}
-
-	regiment = {
-		name= "3.1. Infanteridivision"
-		type = infantry
-		home = 271
-	}
-}
-
-army = {
-	name = "Scottish infantry"
-	location = 269
-	regiment = {
-		name= "1.1. Infanteridivision"
-		type = infantry
-		home = 322
-	}
-
-	regiment = {
-		name= "2.1. Infanteridivision"
-		type = infantry
-		home = 271
-	}
-
-	regiment = {
-		name= "3.1. Infanteridivision"
-		type = infantry
-		home = 372
-	}
-}
-
-army = {
-	name = "Ayitian infantry"
-	location = 2215
-	regiment = {
-		name= "1.1. Infanteridivision"
-		type = infantry
-		home = 273
-	}
-}
-
-army = {
-	name = "Army of Mosambique"
-	location = 2057
-	regiment = {
-		name= "1.1. Infanteridivision"
-		type = infantry
-		home = 1291
-	}
-
-	regiment = {
-		name= "2.1. Infanteridivision"
-		type = infantry
-		home = 266
-	}
-
-	regiment = {
-		name= "3.1. Infanteridivision"
-		type = infantry
-		home = 544
-	}
-
-
-	regiment = {
-		name= "2.1. Kavalleridivision"
-		type = hussar
-		home = 271
-	}
-
 }
 
 navy = {
 	name = "Home Navy"
 	location = 372
 	ship = {
-		name= "Danmark"
-		type = manowar
+		name = "Danmark"
+		type = frigate
 	}
-
+	
 	ship = {
-		name= "Dronning Marie"
-		type = manowar
-	}
-
-	ship = {
-		name= "Frederik den sjette"
-		type = manowar
-	}
-
-	ship = {
-		name= "Phoenix"
-		type = manowar
-	}
-
-	ship = {
-		name= "Prindsesse Lovise Augusta"
-		type = manowar
-	}
-
-	ship = {
-		name= "Skjold"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ghana"
-		type = manowar
-	}
-
-	ship = {
-		name= "India"
-		type = manowar
-	}
-
-	ship = {
-		name= "Wilhelm"
-		type = manowar
-	}
-
-	ship = {
-		name= "Frederick Karl"
-		type = manowar
-	}
-
-	ship = {
-		name= "Svenson"
-		type = manowar
-	}
-
-	ship = {
-		name= "Viken"
-		type = manowar
-	}
-
-	ship = {
-		name= "Aurora"
-		type = manowar
-	}
-	ship = {
-		name= "Jan Mayen"
-		type = manowar
-	}
-
-	ship = {
-		name= "Reykjavik"
-		type = manowar
-	}
-
-	ship = {
-		name= "Hvanadalshnukur"
-		type = manowar
-	}
-
-	ship = {
-		name= "Heimdall"
-		type = manowar
-	}
-
-	ship = {
-		name= "Torstensson"
-		type = manowar
-	}
-
-	ship = {
-		name= "Glasgow"
-		type = manowar
-	}
-	ship = {
-		name= "Finland"
-		type = manowar
-	}
-
-	ship = {
-		name= "Helsinki"
-		type = manowar
-	}
-
-	ship = {
-		name= "Oulu"
-		type = manowar
-	}
-
-	ship = {
-		name= "Farrad"
-		type = manowar
-	}
-
-	ship = {
-		name= "Eire"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ilverness"
-		type = manowar
-	}
-
-	ship = {
-		name= "Barracuda"
-		type = manowar
-	}
-
-	ship = {
-		name= "Celsius"
-		type = manowar
-	}
-
-	ship = {
-		name= "Bellona"
+		name = "Danmark II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Diana"
+		name = "Dronning Marie"
 		type = frigate
 	}
 
 	ship = {
-		name= "Freja"
+		name = "Dronning Marie II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Fylla"
+		name = "Frederik den sjette"
 		type = frigate
 	}
 
 	ship = {
-		name= "Havfruen"
+		name = "Frederik den sjette II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Minerva"
+		name = "Phoenix"
 		type = frigate
 	}
 
 	ship = {
-		name= "Nymphen"
+		name = "Phoenix II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Rota"
+		name = "Prindsesse Lovise Augusta"
 		type = frigate
 	}
 
 	ship = {
-		name= "Venus"
+		name = "Prindsesse Lovise Augusta II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Kiel"
-		type = commerce_raider
-	}
-
-	ship = {
-		name= "Copenhagen"
+		name = "Skjold"
 		type = frigate
 	}
 
 	ship = {
-		name= "Odin"
+		name = "Skjold II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Schleswig"
+		name = "Ghana"
 		type = frigate
 	}
 
 	ship = {
-		name= "Holstein"
+		name = "Ghana II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Bornholm"
+		name = "India"
 		type = frigate
 	}
 
 	ship = {
-		name= "Skane"
+		name = "India II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Inuit"
+		name = "Wilhelm"
 		type = frigate
 	}
 
 	ship = {
-		name= "Nuuk"
+		name = "Wilhelm II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Vinland"
+		name = "Frederick Karl"
 		type = frigate
 	}
 
 	ship = {
-		name= "Arcadia"
-		type = commerce_raider
+		name = "Frederick Karl II"
+		type = frigate
 	}
 
 	ship = {
-		name= "1st Transport Flotilla"
-		type = clipper_transport
+		name = "Svenson"
+		type = frigate
 	}
 
 	ship = {
-		name= "2nd Transport Flotilla"
-		type = clipper_transport
+		name = "Svenson II"
+		type = frigate
 	}
 
 	ship = {
-		name= "3rd Transport Flotilla"
-		type = clipper_transport
+		name = "Viken"
+		type = frigate
 	}
 
 	ship = {
-		name= "4th Transport Flotilla"
-		type = clipper_transport
+		name = "Viken II"
+		type = frigate
 	}
 
 	ship = {
-		name= "5th Transport Flotilla"
-		type = clipper_transport
+		name = "Aurora"
+		type = frigate
 	}
 
 	ship = {
-		name= "6th Transport Flotilla"
-		type = clipper_transport
+		name = "Aurora II"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Jan Mayen"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Jan Mayen II"
+		type = frigate
 	}
 
 	ship = {
-		name= "7th Transport Flotilla"
-		type = clipper_transport
+		name = "Reykjavik"
+		type = frigate
 	}
 
 	ship = {
-		name= "8th Transport Flotilla"
-		type = clipper_transport
+		name = "Reykjavik II"
+		type = frigate
 	}
 
 	ship = {
-		name= "9th Transport Flotilla"
-		type = clipper_transport
+		name = "Hvanadalshnukur"
+		type = frigate
 	}
 
 	ship = {
-		name= "10th Transport Flotilla"
-		type = clipper_transport
+		name = "Hvanadalshnukur II"
+		type = frigate
 	}
-}
-
-
-navy = {
-	name = "Baltic Fleet"
-	location = 354
 
 	ship = {
-		name= "Aarhus"
+		name = "Heimdall"
+		type = frigate
+	}
+
+	ship = {
+		name = "Heimdall II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Torstensson"
+		type = frigate
+	}
+
+	ship = {
+		name = "Torstensson II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Glasgow"
+		type = frigate
+	}
+
+	ship = {
+		name = "Glasgow II"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Finland"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Finland II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Helsinki"
+		type = frigate
+	}
+
+	ship = {
+		name = "Helsinki II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Oulu"
+		type = frigate
+	}
+
+	ship = {
+		name = "Oulu II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Farrad"
+		type = frigate
+	}
+
+	ship = {
+		name = "Farrad II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Eire"
+		type = frigate
+	}
+
+	ship = {
+		name = "Eire II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Ilverness"
+		type = frigate
+	}
+
+	ship = {
+		name = "Ilverness II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Barracuda"
+		type = frigate
+	}
+
+	ship = {
+		name = "Barracuda II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Celsius"
+		type = frigate
+	}
+
+	ship = {
+		name = "Celsius II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Bellona"
+		type = frigate
+	}
+
+	ship = {
+		name = "Diana"
+		type = frigate
+	}
+
+	ship = {
+		name = "Freja"
+		type = frigate
+	}
+
+	ship = {
+		name = "Fylla"
+		type = frigate
+	}
+
+	ship = {
+		name = "Havfruen"
+		type = frigate
+	}
+
+	ship = {
+		name = "Minerva"
+		type = frigate
+	}
+
+	ship = {
+		name = "Nymphen"
+		type = frigate
+	}
+
+	ship = {
+		name = "Rota"
+		type = frigate
+	}
+
+	ship = {
+		name = "Venus"
+		type = frigate
+	}
+
+	ship = {
+		name = "Kiel"
+		type = frigate
+	}
+
+	ship = {
+		name = "Copenhagen"
+		type = frigate
+	}
+
+	ship = {
+		name = "Odin"
+		type = frigate
+	}
+
+	ship = {
+		name = "Schleswig"
+		type = frigate
+	}
+
+	ship = {
+		name = "Holstein"
+		type = frigate
+	}
+
+	ship = {
+		name = "Bornholm"
+		type = frigate
+	}
+
+	ship = {
+		name = "Skane"
+		type = frigate
+	}
+
+	ship = {
+		name = "Inuit"
+		type = frigate
+	}
+
+	ship = {
+		name = "Nuuk"
+		type = frigate
+	}
+
+	ship = {
+		name = "Vinland"
+		type = frigate
+	}
+
+	ship = {
+		name = "Arcadia"
+		type = frigate
+	}
+
+	ship = {
+		name = "Aarhus"
 		type = frigate
 	}
 
@@ -703,332 +661,451 @@ navy = {
 	}
 
 	ship = {
-		name= "Riga"
+		name = "Riga"
 		type = frigate
 	}
 
 	ship = {
-		name= "Livland"
+		name = "Livland"
 		type = frigate
 	}
 
 	ship = {
-		name= "Kurland"
+		name = "Kurland"
 		type = frigate
 	}
 
 	ship = {
-		name= "Jelgava"
+		name = "Jelgava"
 		type = frigate
 	}
 
 	ship = {
-		name= "Grand Lahou"
+		name = "Grand Lahou"
 		type = frigate
 	}
 
 	ship = {
-		name= "Harald"
+		name = "Harald"
 		type = frigate
 	}
 
 	ship = {
-		name= "Hardraade"
+		name = "Hardraade"
 		type = frigate
 	}
 
 	ship = {
-		name= "Tomiel"
+		name = "Tomiel"
 		type = frigate
 	}
 
 	ship = {
-		name= "Osel"
+		name = "Osel"
 		type = frigate
 	}
 
 	ship = {
-		name= "Gotland"
+		name = "Gotland"
 		type = frigate
 	}
 
 	ship = {
-		name= "Reval"
+		name = "Reval"
 		type = frigate
 	}
 
 	ship = {
-		name= "Narva"
+		name = "Narva"
 		type = frigate
 	}
 
 	ship = {
-		name= "Pskov"
+		name = "Pskov"
 		type = frigate
 	}
 
 	ship = {
-		name= "Hindustan"
+		name = "Hindustan"
 		type = frigate
 	}
 
 	ship = {
-		name= "Tartaros"
+		name = "Tartaros"
 		type = frigate
 	}
 
 	ship = {
-		name= "Amesbury"
+		name = "Amesbury"
 		type = frigate
 	}
 
 	ship = {
-		name= "Ireland"
+		name = "Ireland"
 		type = frigate
 	}
 
 	ship = {
-		name= "Drakkar"
+		name = "Drakkar"
 		type = frigate
 	}
 
 	ship = {
-		name= "1st Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2nd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3rd Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "4th Transport Flotilla"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "5th Transport Flotilla"
-		type = clipper_transport
-	}
-}
-
-navy = {
-	name = "Fleet of Antillea"
-	location = 2215
-
-	ship = {
-		name= "Duna"
-		type = manowar
-	}
-
-	ship = {
-		name= "Prins Oskar"
-		type = manowar
-	}
-
-	ship = {
-		name= "Äran"
-		type = manowar
-	}
-
-	ship = {
-		name= "Försiktigheten"
-		type = manowar
-	}
-
-	ship = {
-		name= "Gustav den Store"
-		type = manowar
-	}
-
-	ship = {
-		name= "Josefine"
+		name = "Duna"
 		type = frigate
 	}
 
 	ship = {
-		name= "Susanna"
+		name = "Duna II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Piet Retief"
+		name = "Prins Oskar"
 		type = frigate
 	}
 
 	ship = {
-		name= "Atlantea"
+		name = "Prins Oskar II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Loki"
+		name = "Äran"
 		type = frigate
 	}
-}
-
-navy = {
-	name = "Fleet of Mosambique"
-	location = 2060
 
 	ship = {
-		name= "Orinoco"
-		type = manowar
+		name = "Äran II"
+		type = frigate
 	}
 
 	ship = {
-		name= "Vanern"
-		type = manowar
+		name = "Försiktigheten"
+		type = frigate
+	}
+
+	ship = {
+		name = "Försiktigheten II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Gustav den Store"
+		type = frigate
+	}
+
+	ship = {
+		name = "Gustav den Store II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Josefine"
+		type = frigate
+	}
+
+	ship = {
+		name = "Susanna"
+		type = frigate
+	}
+
+	ship = {
+		name = "Piet Retief"
+		type = frigate
+	}
+
+	ship = {
+		name = "Atlantea"
+		type = frigate
+	}
+
+	ship = {
+		name = "Loki"
+		type = frigate
+	}
+
+	ship = {
+		name = "Orinoco"
+		type = frigate
+	}
+
+	ship = {
+		name = "Orinoco II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Vanern"
+		type = frigate
+	}
+
+	ship = {
+		name = "Vanern II"
+		type = frigate
 	}
 	
 	ship = {
-		name= "Vattern"
-		type = manowar
+		name = "Vattern"
+		type = frigate
 	}
-
+	
 	ship = {
-		name= "Neva"
-		type = manowar
-	}
-
-	ship = {
-		name= "Koskenkorva"
-		type = manowar
-	}
-
-	ship = {
-		name= "Valhalla"
+		name = "Vattern II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Camilla"
+		name = "Neva"
 		type = frigate
 	}
 
 	ship = {
-		name= "Af Chapman"
+		name = "Neva II"
 		type = frigate
 	}
 
 	ship = {
-		name= "Eurydice"
+		name = "Koskenkorva"
 		type = frigate
 	}
 
 	ship = {
-		name= "Galatea"
+		name = "Koskenkorva II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Valhalla"
+		type = frigate
+	}
+
+	ship = {
+		name = "Camilla"
+		type = frigate
+	}
+
+	ship = {
+		name = "Af Chapman"
+		type = frigate
+	}
+
+	ship = {
+		name = "Eurydice"
+		type = frigate
+	}
+
+	ship = {
+		name = "Galatea"
+		type = frigate
+	}
+
+	ship = {
+		name = "Heimdal"
+		type = frigate
+	}
+
+	ship = {
+		name = "Heimdal II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Valkyrien"
+		type = frigate
+	}
+
+	ship = {
+		name = "Valkyrien II"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Fäderneslandet"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Fäderneslandet II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Manligheten"
+		type = frigate
+	}
+
+	ship = {
+		name = "Manligheten II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Dristigheten"
+		type = frigate
+	}
+
+	ship = {
+		name = "Dristigheten II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Packa"
+		type = frigate
+	}
+
+	ship = {
+		name = "Desideira"
+		type = frigate
+	}
+
+	ship = {
+		name = "Jarramas"
+		type = frigate
+	}
+
+	ship = {
+		name = "Hansa"
+		type = frigate
+	}
+
+	ship = {
+		name = "Coventry"
 		type = frigate
 	}
 }
 
 navy = {
-	name = "Fleet of the Eastern Indies"
+	name = "Transport Fleet"
+	location = 546
+	ship = {
+		name = "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "6th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "7th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "8th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "9th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "10th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "11th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "12th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "13th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "14th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name = "15th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "Fleet of the Eeastern Indies"
 	location = 1384
 
 	ship = {
-		name= "Heimdal"
-		type = manowar
-	}
-
-	ship = {
-		name= "Valkyrien"
-		type = manowar
-	}
-	
-	ship = {
-		name= "Fäderneslandet"
-		type = manowar
-	}
-
-	ship = {
-		name= "Manligheten"
-		type = manowar
-	}
-
-	ship = {
-		name= "Dristigheten"
-		type = manowar
-	}
-
-	ship = {
-		name= "Packa"
-		type = frigate
-	}
-
-	ship = {
-		name= "Desideira"
-		type = frigate
-	}
-
-	ship = {
-		name= "Jarramas"
-		type = frigate
-	}
-
-	ship = {
-		name= "Hansa"
-		type = frigate
-	}
-
-	ship = {
-		name= "Coventry"
-		type = frigate
-	}
-
-	ship = {
-		name= "1st Transport Flotilla"
+		name = "1st Transport Flotilla"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "2nd Transport Flotilla"
+		name = "2nd Transport Flotilla"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "3rd Transport Flotilla"
+		name = "3rd Transport Flotilla"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "4th Transport Flotilla"
+		name = "4th Transport Flotilla"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "5th Transport Flotilla"
+		name = "5th Transport Flotilla"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "6th Transport Flotilla"
+		name = "6th Transport Flotilla"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "7th Transport Flotilla"
+		name = "7th Transport Flotilla"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "8th Transport Flotilla"
+		name = "8th Transport Flotilla"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "9th Transport Flotilla"
+		name = "9th Transport Flotilla"
 		type = clipper_transport
 	}
 
 	ship = {
-		name= "10th Transport Flotilla"
+		name = "10th Transport Flotilla"
 		type = clipper_transport
 	}
 }
