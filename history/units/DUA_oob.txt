@@ -119,443 +119,421 @@ leader = {
 	name = "Jon Drake"
 	type = sea
 	date = 1836.1.1
-	personality = madman
-	background = questionable_loyalties
+	personality = def01
+	background = att01
 }
 
 army = {
-	name = "Garde Royale"
+	name = "Armée de Paris"
 	location = 425
 	regiment = {
-		name= "1.Garde Royale"
-		type = infantry
-		home = 467
-	}
-
-	regiment = {
-		name= "2.Garde Royale"
-		type = infantry
+		name= "1. Hussard"
+		type = hussar
 		home = 461
 	}
-
 	regiment = {
-		name= "3.Garde Royale"
-		type = infantry
-		home = 455
-	}
-
-	regiment = {
-		name= "4.Garde Royale"
-		type = infantry
+		name= "1. Artillerie"
+		type = artillery
 		home = 458
 	}
-}
-
-army = {
-	name = "1ère Armée"
-	location = 438
 	regiment = {
-		name= "1.1ère Division d'Infanterie"
-		type = infantry
-		home = 461
+		name= "2. Artillerie"
+		type = artillery
+		home = 425
 	}
-
 	regiment = {
-		name= "2.1ère Division d'Infanterie"
-		type = infantry
-		home = 455
-	}
-
-	regiment = {
-		name= "3.1ère Division d'Infanterie"
-		type = infantry
-		home = 458
-	}
-
-	regiment = {
-		name= "1.2ème Division d'Infanterie"
-		type = infantry
-		home = 451
-	}
-
-	regiment = {
-		name= "2.2ème Division d'Infanterie"
-		type = infantry
-		home = 445
-	}
-
-	regiment = {
-		name= "3.2ème Division d'Infanterie"
-		type = infantry
-		home = 445
-	}
-
-	regiment = {
-		name= "1.3ème Division d'Infanterie"
-		type = infantry
+		name= "3. Artillerie"
+		type = artillery
 		home = 442
 	}
-
 	regiment = {
-		name= "2.3ème Division d'Infanterie"
-		type = infantry
-		home = 435
+		name= "4. Artillerie"
+		type = artillery
+		home = 438
 	}
-
 	regiment = {
-		name= "3.3ème Division d'Infanterie"
-		type = infantry
-		home = 435
+		name= "5. Artillerie"
+		type = artillery
+		home = 434
 	}
-}
-
-army = {
-	name = "2ère Armée"
-	location = 402
 	regiment = {
-		name= "1.1ère Division d'Infanterie"
+		name= "1. Infanterie"
 		type = infantry
-		home = 420
+		home = 451
 	}
-
 	regiment = {
-		name= "2.1ère Division d'Infanterie"
+		name= "2. Infanterie"
+		type = infantry
+		home = 455
+	}
+	regiment = {
+		name= "3. Infanterie"
+		type = infantry
+		home = 445
+	}
+	regiment = {
+		name= "4. Infanterie"
 		type = infantry
 		home = 418
 	}
-
-	regiment = {
-		name= "3.1ère Division d'Infanterie"
-		type = artillery
-		home = 467
-	}
-
-	regiment = {
-		name= "1.2ème Division d'Infanterie"
-		type = infantry
-		home = 438
-	}
-
-	regiment = {
-		name= "2.2ème Division d'Infanterie"
-		type = infantry
-		home = 418
-	}
-
-	regiment = {
-		name= "3.2ème Division d'Infanterie"
-		type = artillery
-		home = 451
-	}
 }
-	
-army = {
-	name = "Cavalerie régulière"
-	location = 461
 
-
-	regiment = {
-		name= "1.Cavalerie régulière"
-		type = hussar
-		home = 451
-	}
-
-	regiment = {
-		name= "2.Cavalerie régulière"
-		type = hussar
-		home = 420
-	}
-
-	regiment = {
-		name= "3.Cavalerie régulière"
-		type = hussar
-		home = 420
-	}
-
-	regiment = {
-		name= "4.Cavalerie régulière"
-		type = cuirassier
-		home = 438
-	}
-
-}
-	
 army = {
 	name = "Armée de Londres"
 	location = 300
-
-
 	regiment = {
-		name= "1.Cavalerie régulière"
-		type = hussar
-		home = 291
-	}
-
-	regiment = {
-		name= "2.Cavalerie régulière"
-		type = hussar
-		home = 284
-	}
-
-	regiment = {
-		name= "3.Cavalerie régulière"
-		type = hussar
-		home = 296
-	}
-
-	regiment = {
-		name= "4.Cavalerie régulière"
-		type = cuirassier
-		home = 418
-	}
-
-}
-
-army = {
-	name = "Army of the Crown of England"
-	location = 279
-	regiment = {
-		name= "1.1st hussar Division"
-		type = hussar
-		home = 284
-	}
-
-	regiment = {
-		name= "2.1st hussar Division"
+		name= "1. Hussard"
 		type = hussar
 		home = 273
 	}
-
 	regiment = {
-		name= "3.1st hussar Division"
-		type = hussar
+		name= "1. Artillerie"
+		type = artillery
 		home = 277
 	}
-
 	regiment = {
-		name= "1.1st Division"
+		name= "2. Artillerie"
+		type = artillery
+		home = 281
+	}
+	regiment = {
+		name= "3. Artillerie"
+		type = artillery
+		home = 284
+	}
+	regiment = {
+		name= "4. Artillerie"
+		type = artillery
+		home = 296
+	}
+	regiment = {
+		name= "5. Artillerie"
+		type = artillery
+		home = 300
+	}
+	regiment = {
+		name= "1. Infanterie"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name= "2. Infanterie"
+		type = infantry
+		home = 254
+	}
+	regiment = {
+		name= "3. Infanterie"
+		type = infantry
+		home = 290
+	}
+	regiment = {
+		name= "4. Infanterie"
+		type = infantry
+		home = 263
+	}
+}
+
+army = {
+	name = "Armée de Normandie"
+	location = 418
+	regiment = {
+		name= "1. Hussard"
+		type = hussar
+		home = 442
+	}
+	regiment = {
+		name= "1. Artillerie"
+		type = artillery
+		home = 296
+	}
+	regiment = {
+		name= "2. Artillerie"
+		type = artillery
+		home = 425
+	}
+	regiment = {
+		name= "3. Artillerie"
+		type = artillery
+		home = 301
+	}
+	regiment = {
+		name= "4. Artillerie"
+		type = artillery
+		home = 420
+	}
+	regiment = {
+		name= "5. Artillerie"
+		type = artillery
+		home = 442
+	}
+	regiment = {
+		name= "1. Infanterie"
+		type = infantry
+		home = 418
+	}
+	regiment = {
+		name= "2. Infanterie"
 		type = infantry
 		home = 403
 	}
-
 	regiment = {
-		name= "2.1st Division"
+		name= "3. Infanterie"
 		type = infantry
-		home = 425
+		home = 447
 	}
-
 	regiment = {
-		name= "3.1st Division"
+		name= "4. Infanterie"
 		type = infantry
-		home = 425
+		home = 438
 	}
-
 }
 
 army = {
-	name = "Armée de Bordeaux"
-	location = 458
-	regiment = {
-		name= "1.8ème Division d'Infanterie"
-		type = infantry
-		home = 425
-	}
-
-	regiment = {
-		name= "2.8ème Division d'Infanterie"
-		type = infantry
-		home = 296
-	}
-
-	regiment = {
-		name= "3.8ème Division d'Infanterie"
-		type = infantry
-		home = 300
-	}
-
-	regiment = {
-		name= "1.9ème Division d'Infanterie"
-		type = infantry
-		home = 300
-	}
-
-	regiment = {
-		name= "2.9ème Division d'Infanterie"
-		type = infantry
-		home = 300
-	}
-
-	regiment = {
-		name= "3.9ème Division d'Infanterie"
-		type = infantry
-		home = 434
-	}
-
-	regiment = {
-		name= "1.2ème Division de cavalerie"
-		type = hussar
-		home = 277
-	}
-
-	regiment = {
-		name= "2.2ème Division de cavalerie"
-		type = hussar
-		home = 277
-	}
-
-	regiment = {
-		name= "3.2ème Division de cavalerie"
-		type = hussar
-		home = 280
-	}
-
-}
-
-army = {
-	name = "Garnison d'Irlande"
+	name = "Armée d'Irlande"
 	location = 263
 	regiment = {
-		name= "1.10ème Division d'Infanterie"
-		type = infantry
-		home = 300
-	}
-
-	regiment = {
-		name= "2.10ème Division d'Infanterie"
-		type = infantry
-		home = 291
-	}
-
-	regiment = {
-		name= "3.10ème Division d'Infanterie"
-		type = infantry
-		home = 284
-	}
-
-}
-
-army = {
-	name = "Garnison des Indes Orientales"
-	location = 1321
-	regiment = {
-		name= "1.11ème Division d'Infanterie"
-		type = infantry
-		home = 280
-	}
-
-	regiment = {
-		name= "2.11ème Division d'Infanterie"
-		type = infantry
-		home = 263
-	}
-
-	regiment = {
-		name= "3.11ème Division d'Infanterie"
-		type = infantry
-		home = 263
-	}
-
-	regiment = {
-		name= "4.11ème Division d'Infanterie"
+		name= "1. Hussard"
 		type = hussar
 		home = 254
 	}
-
-
+	regiment = {
+		name= "1. Artillerie"
+		type = artillery
+		home = 260
+	}
+	regiment = {
+		name= "2. Artillerie"
+		type = artillery
+		home = 263
+	}
+	regiment = {
+		name= "3. Artillerie"
+		type = artillery
+		home = 254
+	}
+	regiment = {
+		name= "4. Artillerie"
+		type = artillery
+		home = 260
+	}
 }
 
 army = {
-	name = "Armée du Sierra Léone"
-	location = 1887
+	name = "Armée de Galles"
+	location = 273
 	regiment = {
-		name= "1.11ème Division d'Infanterie"
-		type = infantry
+		name= "1. Hussard"
+		type = hussar
+		home = 273
+	}
+	regiment = {
+		name= "1. Artillerie"
+		type = artillery
+		home = 273
+	}
+	regiment = {
+		name= "2. Artillerie"
+		type = artillery
+		home = 277
+	}
+	regiment = {
+		name= "3. Artillerie"
+		type = artillery
+		home = 291
+	}
+	regiment = {
+		name= "4. Artillerie"
+		type = artillery
+		home = 281
+	}
+}
+
+army = {
+	name = "Armée Coloniale"
+	location = 1321
+	regiment = {
+		name= "1. Hussard"
+		type = hussar
+		home = 438
+	}
+	regiment = {
+		name= "1. Artillerie"
+		type = artillery
+		home = 291
+	}
+	regiment = {
+		name= "2. Artillerie"
+		type = artillery
 		home = 263
 	}
-
 	regiment = {
-		name= "2.11ème Division d'Infanterie"
+		name= "3. Artillerie"
+		type = artillery
+		home = 455
+	}
+	regiment = {
+		name= "1. Infanterie"
 		type = infantry
-		home = 263
+		home = 446
+	}
+	regiment = {
+		name= "2. Infanterie"
+		type = infantry
+		home = 458
 	}
 }
 
 navy = {
-	name = "Escadre des Indes Orientales"
-	location = 461
+	name = "Fleet of the English Crown"
+	location = 303
 	ship = {
 		name= "Couronne"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name= "Couronne II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Superbe"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Superbe II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Jean Bart"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Jean Bart II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Deux couronnes"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Deux couronnes II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Wagram"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
-		name= "Trocadero "
-		type = manowar
+		name= "Wagram II"
+		type = frigate
+	}
+
+	ship = {
+		name= "Trocadero"
+		type = frigate
+	}
+
+	ship = {
+		name= "Trocadero II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Zélandais"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Zélandais II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Superbe"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Superbe II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Austerlitz"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Austerlitz II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Magnifique"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Magnifique II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Normandie"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Normandie II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Conquérant"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Conquérant II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Neptune"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Neptune II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Algerisas"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Algerisas II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Nestor"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Nestor II"
+		type = frigate
 	}
 
 	ship = {
@@ -632,125 +610,185 @@ navy = {
 		name= "Sultane"
 		type = frigate
 	}
-
-	ship = {
-		name= "1ère Flotille de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2ème Flotille de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3ème Flotille de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "4ème Flotille de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "5ème Flotille de Transport"
-		type = clipper_transport
-	}
-
-}
-
-navy = {
-	name = "Escadre de Méditerranée"
-	location = 461
+	
 	ship = {
 		name= "Triton"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name= "Triton II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Etats de Bourgogne"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Etats de Bourgogne II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Souverain"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Souverain II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Marengo"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Marengo II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Ville de Marseilles"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Ville de Marseilles II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Hercule"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
-		name= "Montebello "
-		type = manowar
+		name= "Hercule II"
+		type = frigate
+	}
+
+	ship = {
+		name= "Montebello"
+		type = frigate
+	}
+
+	ship = {
+		name= "Montebello II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Centaure"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Centaure II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Jupiter"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Jupiter II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Duc d’Angouleme"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Duc d’Angouleme II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Hercules"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Hercules II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Généreux"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Généreux II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Diadème"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Diadème II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Couronne"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Couronne II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Suffren"
-		type = manowar
+		type = frigate
 	}
 
+	ship = {
+		name= "Suffren II"
+		type = frigate
+	}
+	
 	ship = {
 		name= "Trident"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name= "Trident II"
+		type = frigate
 	}
 
 	ship = {
-		name= "Royal Louis "
-		type = manowar
+		name= "Royal Louis"
+		type = frigate
+	}
+
+	ship = {
+		name= "Royal Louis II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Commerces de Paris"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Commerces de Paris II"
+		type = frigate
 	}
 
 	ship = {
@@ -827,157 +865,240 @@ navy = {
 		name= "Reine Blanche"
 		type = frigate
 	}
-
-	ship = {
-		name= "1ère Flotille de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2ème Flotille de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3ème Flotille de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "4ème Flotille de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "5ème Flotille de Transport"
-		type = clipper_transport
-	}
-
-}
-
-navy = {
-	name = "Fleet of the English Crown"
-	location = 303
-
-
+	
 	ship = {
 		name= "HMS Belleisle"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name= "HMS Belleisle II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Bellerophon"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Bellerophon II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Britannia"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Britannia II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Camperdown"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Camperdown II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Carnatic"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Carnatic II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Clarence"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Clarence II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Formidable"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Formidable II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Hastings"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Hastings II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Hawke"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Hawke II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Malabar"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Malabar II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Monarch"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Monarch II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Neptune"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Neptune II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Powerful"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Powerful II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Prince Regent"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Prince Regent II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Princess Charlotte"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Princess Charlotte II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Rodney"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Rodney II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Royal Adelaide"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Royal Adelaide II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Royal George"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Royal George II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Royal William"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Royal William II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Russell"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Russell II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Talavera"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Talavera II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Thunderer"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Thunderer II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Vaninfantry"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Vaninfantry II"
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Vengeance"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
@@ -1042,13 +1163,65 @@ navy = {
 
 	ship = {
 		name= "HMS Medea"
-		type = commerce_raider
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Phoenix"
-		type = commerce_raider
+		type = frigate
+	}
+}
+
+navy = {
+	name = "Escadre de Canal"
+	location = 418
+	ship = {
+		name= "1ère Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5ème Flotille de Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "1ère Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4ème Flotille de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5ème Flotille de Transport"
+		type = clipper_transport
 	}
 
 }
-
