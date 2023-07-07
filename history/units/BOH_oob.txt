@@ -112,44 +112,44 @@ army = {
 	name = "First Army of Bohemia"
 	location = 681
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name = "1. Husar"
+		type = hussar
 		home = 625
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name = "1. Delostrelectvo"
+		type = artillery
 		home = 625
 	}
 
 	regiment = {
-		name= "3.1st Division"
-		type = infantry
+		name = "5. Delostrelectvo"
+		type = artillery
 		home = 625
 	}
 
 	regiment = {
-		name= "4.1st Division"
-		type = infantry
+		name = "2. Delostrelectvo"
+		type = artillery
 		home = 625
 	}
 
 	regiment = {
-		name= "5.1st Division"
-		type = infantry
+		name = "3. Delostrelectvo"
+		type = artillery
 		home = 631
 	}
 	
 	regiment = {
-		name= "4.1st Division"
+		name = "4. Delostrelectvo"
 		type = artillery
 		home = 625
 	}
 	
 	regiment = {
-		name= "5.1st Division"
-		type = hussar
+		name = "5. Delostrelectvo"
+		type = artillery
 		home = 625
 	}
 }
@@ -158,44 +158,44 @@ army = {
 	name = "Second Army of Bohemia"
 	location = 630
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name = "1. Husar"
+		type = hussar
 		home = 631
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name = "1. Delostrelectvo"
+		type = artillery
 		home = 631
 	}
 
 	regiment = {
-		name= "3.1st Division"
-		type = infantry
+		name = "2. Delostrelectvo"
+		type = artillery
 		home = 631
 	}
 
 	regiment = {
-		name= "4.1st Division"
-		type = infantry
+		name = "3. Delostrelectvo"
+		type = artillery
 		home = 631
 	}
 
 	regiment = {
-		name= "5.1st Division"
-		type = infantry
+		name = "4. Delostrelectvo"
+		type = artillery
 		home = 682
 	}
 	
 	regiment = {
-		name= "4.1st Division"
+		name = "5. Delostrelectvo"
 		type = artillery
 		home = 631
 	}
 	
 	regiment = {
-		name= "5.1st Division"
-		type = hussar
+		name = "6. Delostrelectvo"
+		type = artillery
 		home = 625
 	}
 }
@@ -204,44 +204,44 @@ army = {
 	name = "Third Army of Bohemia"
 	location = 685
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name = "1. Husar"
+		type = hussar
 		home = 549
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name = "1. Delostrelectvo"
+		type = artillery
 		home = 549
 	}
 
 	regiment = {
-		name= "3.1st Division"
-		type = infantry
+		name = "2. Delostrelectvo"
+		type = artillery
 		home = 682
 	}
 
 	regiment = {
-		name= "4.1st Division"
-		type = infantry
+		name = "3. Delostrelectvo"
+		type = artillery
 		home = 682
 	}
 
 	regiment = {
-		name= "5.1st Division"
-		type = infantry
-		home = 682
-	}
-	
-	regiment = {
-		name= "4.1st Division"
+		name = "4. Delostrelectvo"
 		type = artillery
 		home = 682
 	}
 	
 	regiment = {
-		name= "5.1st Division"
-		type = hussar
+		name = "5. Delostrelectvo"
+		type = artillery
+		home = 682
+	}
+	
+	regiment = {
+		name = "6. Delostrelectvo"
+		type = artillery
 		home = 631
 	}
 }
@@ -250,44 +250,44 @@ army = {
 	name = "Fourth Army of Bohemia"
 	location = 557
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name = "1. Husar"
+		type = hussar
 		home = 549
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name = "1. Delostrelectvo"
+		type = artillery
 		home = 549
 	}
 
 	regiment = {
-		name= "3.1st Division"
-		type = infantry
+		name = "2. Delostrelectvo"
+		type = artillery
 		home = 549
 	}
 
 	regiment = {
-		name= "4.1st Division"
-		type = infantry
+		name = "3. Delostrelectvo"
+		type = artillery
 		home = 549
 	}
 
 	regiment = {
-		name= "5.1st Division"
-		type = infantry
+		name = "4. Delostrelectvo"
+		type = artillery
 		home = 558
 	}
 	
 	regiment = {
-		name= "4.1st Division"
+		name = "5. Delostrelectvo"
 		type = artillery
 		home = 682
 	}
 	
 	regiment = {
-		name= "5.1st Division"
-		type = hussar
+		name = "6. Delostrelectvo"
+		type = artillery
 		home = 682
 	}
 }
@@ -296,44 +296,44 @@ army = {
 	name = "Fifth Army of Bohemia"
 	location = 560
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name = "1. Husar"
+		type = hussar
 		home = 558
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name = "1. Delostrelectvo"
+		type = artillery
 		home = 558
 	}
 
 	regiment = {
-		name= "3.1st Division"
-		type = infantry
+		name = "2. Delostrelectvo"
+		type = artillery
 		home = 558
 	}
 
 	regiment = {
-		name= "4.1st Division"
-		type = infantry
+		name = "3. Delostrelectvo"
+		type = artillery
 		home = 553
 	}
 
 	regiment = {
-		name= "5.1st Division"
-		type = infantry
-		home = 553
-	}
-	
-	regiment = {
-		name= "4.1st Division"
+		name = "4. Delostrelectvo"
 		type = artillery
 		home = 553
 	}
 	
 	regiment = {
-		name= "5.1st Division"
-		type = hussar
+		name = "5. Delostrelectvo"
+		type = artillery
+		home = 553
+	}
+	
+	regiment = {
+		name = "6. Delostrelectvo"
+		type = artillery
 		home = 682
 	}
 }
