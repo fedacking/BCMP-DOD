@@ -194,34 +194,6 @@ political_decisions = {
 		}
 	}
 	
-	SCO_claim = {
-		potential = {
-			tag = SCA
-			has_global_flag = SCO_loss 
-			is_greater_power = yes 
-			NOT = { ENG = { exists = yes } }
-			
-		}
-		
-		allow = {
-			war = no
-			is_vassal = no
-			SCO = { NOT = { is_greater_power = yes } }
-			all_core = { owned_by = THIS }
-			nationalism_n_imperialism = 1 
-		}
-		
-		effect = {
-			clr_global_flag = SCO_loss
-			badboy = 20
-			SCO = { all_core = { add_core = SCA } }
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
 	end_DUA_ENL = { 
 		potential = { 
 				OR = { 
