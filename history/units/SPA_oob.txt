@@ -249,6 +249,7 @@ army = {
 		home = 521
 	}
 }
+
 army = {
 	name = "Ejército de la Habana"
 	location = 132
@@ -455,37 +456,37 @@ navy = {
 	}
 
 	ship = {
-		name= "Hispania"
+		name = "Hispania"
 		type = frigate
 	}
 
 	ship = {
-		name= "Europa"
+		name = "Europa"
 		type = frigate
 	}
 
 	ship = {
-		name= "Ameriga"
+		name = "Ameriga"
 		type = frigate
 	}
 
 	ship = {
-		name= "Concorde"
+		name = "Concorde"
 		type = frigate
 	}
 
 	ship = {
-		name= "Nuestra Señora de Asunción"
+		name = "Nuestra Señora de Asunción"
 		type = frigate
 	}
 
 	ship = {
-		name= "Nuestra Señora de Atocha"
+		name = "Nuestra Señora de Atocha"
 		type = frigate
 	}
 
 	ship = {
-		name= "Santa Sabina"
+		name = "Santa Sabina"
 		type = frigate
 	}
 	
@@ -510,7 +511,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Aleria"
+		name = "Aleria"
 		type = frigate
 	}
 
@@ -583,197 +584,6 @@ navy = {
 		name = "Villareal"
 		type = frigate
 	}
-}
-
-navy = {
-	name = "Armada del Habana"
-	location = 2209
-
-	ship = {
-		name= "Juan"
-		type = frigate
-	}
-	
-	ship = {
-		name= "Juan II"
-		type = frigate
-	}
-  
-  ship = {
-		name= "Lisboa"
-		type = frigate
-	}
-  
-  ship = {
-		name= "Lisboa II
-		type = frigate
-	}
-
-	ship = {
-		name= "Madrid"
-		type = frigate
-	}
-
-	ship = {
-		name= "Madrid II"
-		type = frigate
-	}
-
-	ship = {
-		name= "Castilla"
-		type = frigate
-	}
-
-	ship = {
-		name= "Castilla II"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Almeria"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Almeria II"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Euskadia"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Euskadia II"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Etruria"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Etruria II"
-		type = frigate
-	}
-  
-  ship = {
-		name = "Coabana"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Sebastian"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Padre"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Christo Redendor"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Magdalena"
-		type = frigate
-	}
-
-	ship = {
-		name= "Portugal"
-		type = frigate
-	}
-
-	ship = {
-		name= "Portugal II"
-		type = frigate
-	}
-
-	ship = {
-		name= "Granada"
-		type = frigate
-	}
-
-	ship = {
-		name= "Granada II"
-		type = frigate
-	}
-
-	ship = {
-		name= "Isabella"
-		type = frigate
-	}
-
-	ship = {
-		name= "Isabella II"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Quechua"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Quechua II"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Andrea"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Navarre"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Maghreb"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Algiers"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Pacific"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Deus"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Antillea"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Mayapan"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Yucatan"
-		type = frigate
-	}
-	
-	ship = {
-		name = "Mejico"
-		type = frigate
-	}
-  
 }
 
 navy = {
@@ -862,5 +672,195 @@ navy = {
 	ship = {
 		name= "17ta Flotilla de Transporte"
 		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "Armada del Habana"
+	location = 2209
+
+	ship = {
+		name = "Juan"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Juan II"
+		type = frigate
+	}
+  
+	ship = {
+		name = "Lisboa"
+		type = frigate
+	}
+  
+	ship = {
+		name = "Lisboa II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Madrid"
+		type = frigate
+	}
+
+	ship = {
+		name = "Madrid II"
+		type = frigate
+	}
+
+	ship = {
+		name= "Castilla"
+		type = frigate
+	}
+
+	ship = {
+		name= "Castilla II"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Almeria"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Almeria II"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Euskadia"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Euskadia II"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Etruria"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Etruria II"
+		type = frigate
+	}
+  
+	ship = {
+		name = "Coabana"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Sebastian"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Padre"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Christo Redendor"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Magdalena"
+		type = frigate
+	}
+
+	ship = {
+		name = "Portugal"
+		type = frigate
+	}
+
+	ship = {
+		name = "Portugal II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Granada"
+		type = frigate
+	}
+
+	ship = {
+		name = "Granada II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Isabella"
+		type = frigate
+	}
+
+	ship = {
+		name= "Isabella II"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Quechua"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Quechua II"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Andrea"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Navarre"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Maghreb"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Algiers"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Pacific"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Deus"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Antillea"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Mayapan"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Yucatan"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Mejico"
+		type = frigate
 	}
 }
