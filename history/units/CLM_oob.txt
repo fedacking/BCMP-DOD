@@ -49,49 +49,49 @@ army = {
 	name = "Ejército de Andagoya"
 	location = 2253
    	regiment = {
-		name= "1. Brigada de Infantería"
-		type = infantry
+		name= "1. Húsar"
+		type = hussar
 		home = 2170
 	}
 
 	regiment = {
-		name= "2. Brigada de Infantería"
-		type = infantry
+		name= "1. Artillería"
+		type = artillery
 		home = 2170
 	}
 	regiment = {
-		name= "3. Brigada de Infantería"
-		type = infantry
+		name= "2. Artillería"
+		type = artillery
 		home = 132
 	}
 
 	regiment = {
-		name= "4. Brigada de Infantería"
-		type = infantry
+		name= "3. Artillería"
+		type = artillery
 		home = 2156
 	}
 
 	regiment = {
-		name= "5. Brigada de Infantería"
+		name= "4. Artillería"
+		type = artillery
+		home = 2173
+	}
+
+	regiment = {
+		name= "1. Infantería"
 		type = infantry
 		home = 2173
 	}
 
 	regiment = {
-		name= "1. Brigada de Caballería"
-		type = hussar
-		home = 2173
-	}
-
-	regiment = {
-		name= "2. Brigada de Caballería"
-		type = hussar
+		name= "2. Infantería"
+		type = infantry
 		home = 2251
 	}
 
 	regiment = {
-		name= "3. Brigada de Caballería"
-		type = hussar
+		name= "3. Infantería"
+		type = infantry
 		home = 2161
 	}
 
@@ -101,38 +101,38 @@ army = {
 	name = "Ejército de Liberación"
 	location = 2295
 	regiment = {
-		name= "1. División de Infantería"
-		type = infantry
+		name= "1. Húsar"
+		type = hussar
 		home = 2172
 	}
 
 	regiment = {
-		name= "2. División de Infantería"
-		type = infantry
-		home = 2172
-	}
-
-	regiment = {
-		name= "3. División de Infantería"
-		type = infantry
-		home = 2172
-	}
-
-	regiment = {
-		name= "1. División de Caballería"
+		name= "1. Artillería"
 		type = artillery
 		home = 2172
 	}
 
 	regiment = {
-		name= "2. División de Caballería"
-		type = hussar
+		name= "2. Artillería"
+		type = artillery
 		home = 2172
 	}
 
 	regiment = {
-		name= "3. División de Caballería"
-		type = hussar
+		name= "3. Artillería"
+		type = artillery
+		home = 2172
+	}
+
+	regiment = {
+		name= "1. Infantería"
+		type = infantry
+		home = 2172
+	}
+
+	regiment = {
+		name= "2. Infantería"
+		type = infantry
 		home = 2172
 	}
 
@@ -140,34 +140,34 @@ army = {
 
 army = {
 	name = "Ejército del Norte"
-	location = 2148
+	location = 2149
 	regiment = {
-		name= "1.Division Cos"
-		type = infantry
+		name= "1. Húsar"
+		type = hussar
 		home = 2172
 	}
 
 	regiment = {
-		name= "2.Division Cos"
-		type = infantry
+		name= "1. Artillería"
+		type = artillery
 		home = 2164
 	}
 
 	regiment = {
-		name= "3.Division Cos"
-		type = infantry
+		name= "2. Artillería"
+		type = artillery
 		home = 2164
 	}
 	
 	regiment = {
-		name= "4.Division Cos"
+		name= "1. Infantería"
 		type = infantry
 		home = 2302
 	}
 	
 	regiment = {
-		name= "5.Division Cos"
-		type = artillery
+		name= "2. Infantería"
+		type = infantry
 		home = 2295
 	}
 
@@ -177,19 +177,19 @@ army = {
 	name = "Activo Oajaca"
 	location = 2177
 	regiment = {
-		name= "1.Oajaca y Tlaxcala"
-		type = infantry
+		name = "1. Húsar"
+		type = hussar
 		home = 2295
 	}
 
 	regiment = {
-		name= "2.Oajaca y Tlaxcala"
-		type = infantry
+		name= "1. Artillería"
+		type = artillery
 		home = 2279
 	}
 
 	regiment = {
-		name= "3.Oajaca y Tlaxcala"
+		name= "1. Infantería"
 		type = infantry
 		home = 2279
 	}
@@ -200,20 +200,20 @@ army = {
 	name = "Ejército de la Revolución"
 	location = 2174
 	regiment = {
-		name= "1.Division Comonfort"
-		type = infantry
+		name = "1. Húsar"
+		type = hussar
 		home = 2251
 	}
 
 	regiment = {
-		name= "2.Division Comonfort"
-		type = infantry
+		name= "1. Artillería"
+		type = artillery
 		home = 2264
 	}
 
 	regiment = {
-		name= "3.Division Comonfort"
-		type = dragoon
+		name= "1. Infantería"
+		type = infantry
 		home = 2197
 	}
 
