@@ -86,44 +86,44 @@ army = {
 	name = "Exèrcit del Regne"
 	location = 498
 	regiment = {
-		name= "1. Granaders del Rei"
-		type = infantry
-		home = 495
-	}
-
-	regiment = {
-		name= "2. Granaders del Rei"
-		type = infantry
-		home = 495
-	}
-
-	regiment = {
-		name= "1. Brigada de Infanteria"
-		type = infantry
-		home = 498
-	}
-
-	regiment = {
-		name= "2. Brigada de Infanteria"
-		type = infantry
-		home = 498
-	}
-
-	regiment = {
-		name= "3. Brigada de Infanteria"
-		type = infantry
-		home = 498
-	}
-
-	regiment = {
-		name= "1. Granaders del Rei"
+		name= "1. Hússar"
 		type = hussar
 		home = 495
 	}
 
 	regiment = {
-		name= "2. Granaders del Rei"
-		type = hussar
+		name= "1. Artilleria"
+		type = artillery
+		home = 495
+	}
+
+	regiment = {
+		name= "2. Artilleria"
+		type = artillery
+		home = 498
+	}
+
+	regiment = {
+		name= "3. Artilleria"
+		type = artillery
+		home = 498
+	}
+
+	regiment = {
+		name= "4. Artilleria"
+		type = artillery
+		home = 498
+	}
+
+	regiment = {
+		name= "5. Artilleria"
+		type = artillery
+		home = 495
+	}
+
+	regiment = {
+		name= "6. Artilleria"
+		type = artillery
 		home = 503
 	}
 }
@@ -133,31 +133,31 @@ army = {
 	location = 503
 
 	regiment = {
-		name= "8. Brigada de Infanteria"
-		type = infantry
+		name= "1. Hússar"
+		type = hussar
 		home = 503
 	}
 
 	regiment = {
-		name= "9. Brigada de Infanteria"
-		type = infantry
+		name= "1. Artilleria"
+		type = artillery
 		home = 503
 	}
 
 	regiment = {
-		name= "10. Brigada de Infanteria"
-		type = infantry
+		name= "2. Artilleria"
+		type = artillery
 		home = 503
 	}
 
 	regiment = {
-		name= "11. Brigada de Infanteria"
+		name= "3. Artilleria"
 		type = artillery
 		home = 1726
 	}
 	
 	regiment = {
-		name= "12. Brigada de Infanteria"
+		name= "4. Artilleria"
 		type = artillery
 		home = 1726
 	}
@@ -167,44 +167,44 @@ army = {
 	name = "Exèrcit Italià"
 	location = 754
 	regiment = {
-		name= "1. Granaders del Rei"
-		type = infantry
+		name= "1. Hússar"
+		type = hussar
 		home = 765
 	}
 
 	regiment = {
-		name= "2. Granaders del Rei"
-		type = infantry
+		name= "1. Artilleria"
+		type = artillery
 		home = 765
 	}
 
 	regiment = {
-		name= "1. Brigada de Infanteria"
-		type = infantry
+		name= "2. Artilleria"
+		type = artillery
 		home = 753
 	}
 
 	regiment = {
-		name= "2. Brigada de Infanteria"
-		type = infantry
+		name= "3. Artilleria"
+		type = artillery
 		home = 1701
 	}
 
 	regiment = {
-		name= "3. Brigada de Infanteria"
-		type = infantry
+		name= "4. Artilleria"
+		type = artillery
 		home = 1703
 	}
 
 	regiment = {
-		name= "1. Granaders del Rei"
-		type = hussar
+		name= "5. Artilleria"
+		type = artillery
 		home = 1701
 	}
 
 	regiment = {
-		name= "2. Granaders del Rei"
-		type = hussar
+		name= "6. Artilleria"
+		type = artillery
 		home = 1701
 	}
 }
@@ -214,32 +214,32 @@ army = {
 	location = 1700
 
 	regiment = {
-		name= "8. Brigada de Infanteria"
-		type = infantry
+		name= "1. Hússar"
+		type = hussar
 		home = 1703
 	}
 
 	regiment = {
-		name= "9. Brigada de Infanteria"
-		type = infantry
+		name= "1. Artilleria"
+		type = artillery
 		home = 763
 	}
 
 	regiment = {
-		name= "10. Brigada de Infanteria"
-		type = infantry
+		name= "2. Artilleria"
+		type = artillery
 		home = 1701
 	}
 
 	regiment = {
-		name= "11. Brigada de Infanteria"
-		type = infantry
+		name= "3. Artilleria"
+		type = artillery
 		home = 763
 	}
 	
 	regiment = {
-		name= "12. Brigada de Infanteria"
-		type = infantry
+		name= "4. Artilleria"
+		type = artillery
 		home = 763
 	}
 }
@@ -250,67 +250,132 @@ navy = {
 	
 	ship = {
 		name = "Santiago"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Santiago II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Hespérides"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Hespérides II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Centinella"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Centinella II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Aragó"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Aragó II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Joan"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Joan II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Ferran"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Ferran II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Barcelona"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Barcelona II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Nàpols"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Nàpols II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Cartago"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Cartago II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Tunísia"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Tunísia II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Catalunya"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Catalunya II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Sicília"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Sicília II"
+		type = frigate
 	}
 		
 	ship = {
 		name = "Ítaca"
-		type = manowar
+		type = frigate
+	}
+		
+	ship = {
+		name = "Ítaca II"
+		type = frigate
 	}
 	
 	ship = {
@@ -409,133 +474,153 @@ navy = {
 	}
 	
 	ship = {
-		name= "1a Flotilla de Transport"
-		type = clipper_transport
+		name = "Nova Roma"
+		type = frigate
 	}
-
-	ship = {
-		name= "2a Flotilla de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "3a Flotilla de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "4a Flotilla de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "5a Flotilla de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "6a Flotilla de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "7a Flotilla de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "8a Flotilla de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "9a Flotilla de Transport"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "10a Flotilla de Transport"
-		type = clipper_transport
-	}
-}
-
-navy = {
-	name = "Flota de Nàpols"
-	location = 754
 	
 	ship = {
-		name = "Nova Roma"
-		type = manowar
+		name = "Nova Roma II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Amèriga"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Amèriga II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Arcàdia"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Arcàdia II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Hispània"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Hispània II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Joan Pau"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Joan Pau II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Sant Francesc"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Sant Francesc II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Herkules"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Herkules II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Tità"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Tità II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Illias"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Illias II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Grècia"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Grècia II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Hellene"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Hellene II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Venècia"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Venècia II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Roselló"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Roselló II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Pyrrenea"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Pyrrenea II"
+		type = frigate
 	}
 	
 	ship = {
 		name = "Isabela"
-		type = manowar
+		type = frigate
+	}
+	
+	ship = {
+		name = "Isabela II"
+		type = frigate
 	}
 
 	ship = {
@@ -612,11 +697,6 @@ navy = {
 		name = "Aegea"
 		type = frigate
 	}
-}
-
-navy = {
-	name = "Flota de les Antilles"
-	location = 2231
 	
 	ship = {
 		name = "Santa Fe"
@@ -657,6 +737,59 @@ navy = {
 		name = "Rex"
 		type = frigate
 	}
+}
 
+navy = {
+	name = "Flota de Transport"
+	location = 765
+	
+	ship = {
+		name= "1a Flotilla de Transport"
+		type = clipper_transport
+	}
 
+	ship = {
+		name= "2a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10a Flotilla de Transport"
+		type = clipper_transport
+	}
 }
