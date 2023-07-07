@@ -276,7 +276,7 @@ army = {
 }
 
 army = {
-	name = "Armée du Brussels"
+	name = "Armée de Brussels"
 	location = 387
   regiment = {
 		name= "1. Hussard"
@@ -311,7 +311,7 @@ army = {
 }
 
 army = {
-	name = "Armée du Trier"
+	name = "Armée de Trier"
 	location = 572
   regiment = {
 		name= "1. Hussard"
