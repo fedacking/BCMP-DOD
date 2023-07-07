@@ -31,25 +31,25 @@ army = {
 	name = "Army of Vinland"
 	location = 58
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name= "1. Hussar"
+		type = hussar
 		home = 58
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name= "1. Artillery"
+		type = artillery
 		home = 58
 	}
 
 	regiment = {
-		name= "3.1st Division"
-		type = infantry
+		name= "2. Artillery"
+		type = artillery
 		home = 65
 	}
 	
 	regiment = {
-		name= "4.1st Division"
+		name= "3. Artillery"
 		type = artillery
 		home = 70
 	}
@@ -58,19 +58,19 @@ army = {
 	name = "Skrealings Korps"
 	location = 175
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name= "1. Artillery"
+		type = artillery
 		home = 54
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name= "2. Artillery"
+		type = artillery
 		home = 175
 	}
 
 	regiment = {
-		name= "3.1st Division"
+		name= "1. infantry"
 		type = infantry
 		home = 171
 	}

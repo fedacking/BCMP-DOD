@@ -15,35 +15,35 @@ leader = {
 }
 
 army = {
-	name = "1ère Division d'Infanterie"
+	name = "1ère Armée"
 	location = 207
 	regiment = {
-		name= "1ère Brigade d'Infanterie"
-		type = infantry
+		name= "1. Hussard"
+		type = hussar
 		home = 198
 	}
 
 	regiment = {
-		name= "2ème Brigade d'Infanterie"
-		type = infantry
+		name= "1. Artillerie"
+		type = artillery
 		home = 198
 	}
 
 	regiment = {
-		name= "3ème Brigade d'Infanterie"
-		type = infantry
+		name= "2. Artillerie"
+		type = artillery
 		home = 206
 	}
 
 	regiment = {
-		name= "4ème Brigade d'Infanterie"
-		type = infantry
+		name= "3. Artillerie"
+		type = artillery
 		home = 206
 	}
 
 	regiment = {
-		name= "5ème Brigade d'Infanterie"
-		type = infantry
+		name= "4. Artillerie"
+		type = artillery
 		home = 206
 	}
 }
@@ -52,20 +52,20 @@ army = {
 	name = "2ère Division d'Infanterie"
 	location = 141
 	regiment = {
-		name= "1ère Brigade d'Infanterie"
-		type = infantry
-		home = 139
-	}
-
-	regiment = {
-		name= "2ème Brigade d'Infanterie"
-		type = infantry
-		home = 139
-	}
-
-	regiment = {
-		name= "1ère Brigade de Cavalerie"
+		name= "1. Hussard"
 		type = hussar
+		home = 139
+	}
+
+	regiment = {
+		name= "1. Artillerie"
+		type = artillery
+		home = 139
+	}
+
+	regiment = {
+		name= "1. Infanterie"
+		type = infantry
 		home = 142
 	}
 }
@@ -75,19 +75,19 @@ army = {
 	name = "Milice Tsalagi"
 	location = 216
 	regiment = {
-		name= "1er Régiment Indigène"
-		type = infantry
+		name= "1. Artillerie"
+		type = artillery
 		home = 216
 	}
 
 	regiment = {
-		name= "2ème Régiment Indigène"
-		type = infantry
+		name= "2. Artillerie"
+		type = artillery
 		home = 188
 	}
 
 	regiment = {
-		name= "3ème Régiment Indigène"
+		name= "1. Infanterie"
 		type = infantry
 		home = 2556
 	}
@@ -115,5 +115,4 @@ navy = {
 		name= "1e Flottille de Transport"
 		type = clipper_transport
 	}
-
 }
