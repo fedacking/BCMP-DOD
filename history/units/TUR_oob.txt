@@ -95,26 +95,26 @@ army = {
 	name = "Imperial infantrys"
 	location = 860
 	regiment = {
-		name= "1. Bostancy-yy Hassa"
-		type = infantry
+		name= "1. Hussar"
+		type = hussar
 		home = 803
 	}
 
 	regiment = {
-		name= "2. Bostancy-yy Hassa"
-		type = infantry
+		name= "1. Artillery"
+		type = artillery
 		home = 803
 	}
 
 	regiment = {
-		name= "3. Bostancy-yy Hassa"
-		type = infantry
+		name= "2. Artillery"
+		type = artillery
 		home = 832
 	}
 
 	regiment = {
-		name= "4. Bostancy-yy Hassa"
-		type = artillery
+		name= "3. Infantry"
+		type = infantry
 		home = 832
 	}
 
@@ -125,68 +125,67 @@ army = {
 	name = "Army of Anatolia"
 	location = 861
 	regiment = {
-		name= "5. Piyade Tümeni"
-		type = infantry
+		name= "1. Hussar"
+		type = hussar
 		home = 810
 	}
 
 	regiment = {
-		name= "6. Piyade Tümeni"
-		type = infantry
+		name= "1. Artillery"
+		type = artillery
 		home = 810
 	}
 
 	regiment = {
-		name= "7. Piyade Tümeni"
+		name= "2. Artillery"
 		type = artillery
 		home = 823
 	}
 
 	regiment = {
-		name= "1. Redif Kars"
+		name= "3. Artillery"
+		type = artillery
+		home = 794
+	}
+
+	regiment = {
+		name = "1. Infantry"
 		type = infantry
 		home = 794
 	}
 
 	regiment = {
-		name= "1. Redif Trabzon"
-		type = infantry
-		home = 794
-	}
-
-	regiment = {
-		name= "2. Redif Trabzon"
+		name = "2. Infantry"
 		type = infantry
 		home = 803
 	}
 
 	regiment = {
-		name= "3. Redif Trabzon"
+		name = "3. Infantry"
 		type = infantry
 		home = 884
 	}
-
 }
 
 army = {
 	name = "Army of Silistria"
 	location = 818
 	regiment = {
-		name= "4. Sipahis"
+		name= "1. Hussar"
 		type = hussar
 		home = 823
 	}
 
 	regiment = {
-		name= "5. Sipahis"
-		type = hussar
-		home = 860
+		name= "1. Artillery"
+		type = artillery
+		home = 810
 	}
 
 	regiment = {
-		name= "6. Sipahis"
-		type = hussar
-		home = 860
+		name= "2. Artillery"
+		type = artillery
+		home = 823
 	}
 }
 
@@ -194,31 +193,31 @@ army = {
 	name = "Army of Arabia"
 	location = 902
 	regiment = {
-		name= "12. Piyade Tümeni"
-		type = infantry
+		name = "1. Hussar"
+		type = hussar
 		home = 884
 	}
 
 	regiment = {
-		name= "13. Piyade Tümeni"
-		type = infantry
+		name = "1. Artillery"
+		type = artillery
 		home = 873
 	}
 
 	regiment = {
-		name= "1. Redif Halab"
-		type = infantry
+		name = "2. Artillery"
+		type = artillery
 		home = 1746
 	}
 
 	regiment = {
-		name= "2. Redif Halab"
+		name = "1. Infantry"
 		type = infantry
 		home = 897
 	}
 
 	regiment = {
-		name= "3. Redif Halab"
+		name = "2. Infantry"
 		type = infantry
 		home = 884
 	}
@@ -228,25 +227,25 @@ army = {
 	name = "Army of Suez"
 	location = 1746
 	regiment = {
-		name= "12. Piyade Tümeni"
-		type = infantry
+		name = "1. Hussar"
+		type = hussar
 		home = 876
 	}
 
 	regiment = {
-		name= "13. Piyade Tümeni"
-		type = infantry
+		name = "1. Artillery"
+		type = artillery
 		home = 881
 	}
 
 	regiment = {
-		name= "1. Redif Halab"
-		type = infantry
+		name = "2. Artillery"
+		type = artillery
 		home = 876
 	}
 
 	regiment = {
-		name= "2. Redif Halab"
+		name = "1. Infantry"
 		type = infantry
 		home = 884
 	}
@@ -254,65 +253,125 @@ army = {
 
 navy = {
 	name = "Ottoman Navy"
-	location = 844
+	location = 860
 	ship = {
-		name= "Masudiya"
-		type = manowar
+		name = "Masudiya"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Masudiya II"
+		type = frigate
 	}
 
 	ship = {
-		name= "Sadd al Bahri"
-		type = manowar
+		name = "Sadd al Bahri"
+		type = frigate
 	}
 
 	ship = {
-		name= "Ankay i Barhi"
-		type = manowar
+		name = "Sadd al Bahri II"
+		type = frigate
+	}
+
+	ship = {
+		name = "Ankay i Barhi"
+		type = frigate
+	}
+
+	ship = {
+		name = "Ankay i Barhi II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Taus i Barhi"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Taus i Barhi II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Tevfik Nyuma"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Tevfik Nyuma II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Bisharet Nyuma"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Bisharet Nyuma II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Killid i Barhi"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Killid i Barhi II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Heybetendaz"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Heybetendaz II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Melek i Barhi"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Melek i Barhi II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Sayyad i Barhi"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Sayyad i Barhi II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Gulbang i Nusret"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Gulbang i Nusret II"
+		type = frigate
 	}
 
 	ship = {
 		name= "Jebel Andaz"
-		type = manowar
+		type = frigate
+	}
+
+	ship = {
+		name= "Jebel Andaz II"
+		type = frigate
 	}
 
 	ship = {
@@ -379,6 +438,4 @@ navy = {
 		name= "3rd Transport Flotilla"
 		type = clipper_transport
 	}
-
 }
-
