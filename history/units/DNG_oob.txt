@@ -22,26 +22,26 @@ army = {
 	name = "1st Army of the Standard of Qingqiu"
 	location = 84
 	regiment = {
-		name= "1st infantry"
-		type = infantry
+		name= "1. Hussar"
+		type = hussar
 		home = 81
 	}
 
 	regiment = {
-		name= "2nd infantry"
-		type = infantry
+		name= "1. Artillery"
+		type = artillery
 		home = 13
 	}
 
 	regiment = {
-		name= "3rd infantry"
-		type = infantry
+		name= "2. Artillery"
+		type = artillery
 		home = 20
 	}
 	
 	regiment = {
-		name= "4th infantry"
-		type = infantry
+		name= "3. Artillery"
+		type = artillery
 		home = 82
 	}
 }

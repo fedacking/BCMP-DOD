@@ -18,32 +18,32 @@ army = {
 	name = "Lord's Army"
 	location = 2348
 	regiment = {
-		name= "1. infantry Division"
-		type = infantry
-		home = 2348
-	}
-
-	regiment = {
-		name= "2. infantry Division"
-		type = infantry
-		home = 2348
-	}
-
-	regiment = {
-		name= "3. infantry Division"
-		type = infantry
-		home = 2348
-	}
-
-	regiment = {
-		name= "1. hussar Division"
+		name= "1. Hussar"
 		type = hussar
 		home = 2348
 	}
 
 	regiment = {
-		name= "2. hussar Division"
-		type = hussar
+		name= "1. Artillery"
+		type = artillery
+		home = 2348
+	}
+
+	regiment = {
+		name= "2. Artillery"
+		type = artillery
+		home = 2348
+	}
+
+	regiment = {
+		name= "3. Artillery"
+		type = artillery
+		home = 2348
+	}
+
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
 		home = 2348
 	}
 }
