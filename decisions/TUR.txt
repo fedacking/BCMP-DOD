@@ -51,13 +51,15 @@ political_decisions = {
 			add_accepted_culture = greek
 			add_accepted_culture = albanian
 			add_accepted_culture = mashriqi
-    			political_reform = wealth_weighted_voting
-    			political_reform = state_equal_weight
-    			political_reform = yes_meeting
-    			political_reform = free_press
-    			political_reform = state_controlled
-    			political_reform = gerrymandering
+			add_accepted_culture = bedouin
+    		political_reform = wealth_weighted_voting
+    		political_reform = state_equal_weight
+    		political_reform = yes_meeting
+    		political_reform = free_press
+    		political_reform = state_controlled
+    		political_reform = gerrymandering
 			set_country_flag = tanzimat_reforms_enacted_1
+            add_country_modifier = { name = total_reform duration = 1825 }
 		}
 	}
 	tanzimat_reforms_2 = {
@@ -152,7 +154,9 @@ political_decisions = {
 			add_accepted_culture = serb
 			add_accepted_culture = bulgarian
 			add_accepted_culture = misri
+			add_accepted_culture = khaliji
 			set_country_flag = tanzimat_reforms_enacted_2
+            add_country_modifier = { name = total_reform duration = 1825 }
 		}
 	}
 	reclaim_islam = {
