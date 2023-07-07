@@ -65,10 +65,10 @@ party_issues = {
 				can_invest_in_pop_projects = yes
 			}
 		}
-		state_capitalism = {
+		state_capitalism = { 
 			import_cost = 0.5
 			min_tax = 0.25
-			factory_owner_cost = 0.8
+			factory_owner_cost = -1 #negative costs, can't build.
 			
 			rules = {
 				build_factory = yes
