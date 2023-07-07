@@ -23,79 +23,79 @@ leader = {
 }
 
 army = {
-	name = "1ère Division d'Infanterie"
+	name = "2ème Armée"
 	location = 247
 	regiment = {
-		name= "1ère Brigade d'Infanterie"
-		type = infantry
+		name= "1. Artillerie"
+		type = artillery
 		home = 243
 	}
 
 	regiment = {
-		name= "2ème Brigade d'Infanterie"
-		type = infantry
+		name= "2. Artillerie"
+		type = artillery
 		home = 243
 	}
 	
 	regiment = {
-		name= "3ème Brigade d'Infanterie"
-		type = infantry
+		name= "3. Artillerie"
+		type = artillery
 		home = 243
 	}
 }
 
 army = {
-	name = "2ème Division d'Infanterie"
+	name = "1ère Armée"
 	location = 233
 	regiment = {
-		name= "1ère Brigade d'Infanterie"
-		type = infantry
+		name= "1. Hussard"
+		type = hussar
 		home = 223
 	}
 
 	regiment = {
-		name= "2ème Brigade d'Infanterie"
-		type = infantry
+		name= "1. Artillerie"
+		type = artillery
 		home = 223
 	}
 
 	regiment = {
-		name= "3ème Brigade d'Infanterie"
-		type = infantry
+		name= "2. Artillerie"
+		type = artillery
 		home = 223
 	}
 	
 	regiment = {
-		name= "1ère Brigade de Cavalerie"
-		type = hussar
+		name= "3. Artillerie"
+		type = artillery
 		home = 225
 	}
 }
 
 army = {
-	name = "3ème Division d'Infanterie"
+	name = "3ème Armée"
 	location = 211
 	regiment = {
-		name= "1ère Brigade d'Infanterie"
-		type = infantry
+		name= "1. Artillerie"
+		type = artillery
 		home = 225
 	}
 
 	regiment = {
-		name= "2ème Brigade d'Infanterie"
-		type = infantry
+		name= "2. Artillerie"
+		type = artillery
 		home = 225
 	}
 
 	regiment = {
-		name= "3ème Brigade d'Infanterie"
-		type = infantry
+		name= "3. Artillerie"
+		type = artillery
 		home = 227
 	}
 	
 	regiment = {
-		name= "1ère Brigade de Cavalerie"
-		type = hussar
+		name= "4. Artillerie"
+		type = artillery
 		home = 227
 	}
 }
