@@ -44,14 +44,14 @@ kurland_annexation = {
 		potential = {
 			tag = SCA
 			is_greater_power = yes
-			has_country_flag = baltic_claimed
-			KRL = { exists = yes }
 			NOT = { has_country_flag = fall_of_kurland }
 		}	
 		allow = {
+			KRL = { exists = yes }
 			NOT = { KRL = { war = yes } }
 			NOT = { war = yes }
 			KRL = { in_sphere = THIS }
+			has_country_flag = baltic_claimed
 			owns = 690
 			owns = 695
 		}

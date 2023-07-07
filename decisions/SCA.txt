@@ -26,7 +26,6 @@ political_decisions = {
 	lithuania_kidnapping = {
 		potential = {
 			tag = SCA
-			has_country_flag = baltic_claimed
 			NOT = { has_country_flag = lol_gg }
 		}
 			
@@ -36,7 +35,7 @@ political_decisions = {
 			owns = 546
 			owns = 695 
 			revolution_n_counterrevolution = 1
-			
+			has_country_flag = baltic_claimed			
 		}
 			
 		effect = {
@@ -152,14 +151,14 @@ political_decisions = {
 	nordtyskland = {
 	
 		potential = { 
-			tag = SCA 
-			is_greater_power = yes 
-			has_country_flag = baltic_claimed
+			tag = SCA
 			NOT = { has_global_flag = hre_formed has_global_flag = cae_formed has_country_flag = nordtyskland }
 		}
 	
-		allow = { 
+		allow = {
+			is_greater_power = yes 
 			has_country_flag = north_integration
+			has_country_flag = baltic_claimed
 			549 = {
 				OR = {
 					owned_by = THIS
