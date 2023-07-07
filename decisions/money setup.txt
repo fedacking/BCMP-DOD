@@ -1,0 +1,61 @@
+political_decisions = {
+
+	money_pops_setup = {
+		potential = {
+			tag = SIK
+			NOT = { has_global_flag = money_setup_done }
+		}
+		allow = {
+
+		}
+		effect = {
+		
+			DUA = { treasury = 500000 }
+			SCA = { treasury = 500000 }
+			BRG = { treasury = 500000 }
+			BOH = { treasury = 500000 }
+			SPA = { treasury = 200000 }
+			CLM = { treasury = 100000 }
+			TUR = { treasury = 60000 }
+			ARA = { treasury = 200000 }
+			
+			
+			JAP = { treasury = 90000 }
+			VIN = { treasury = 40000 }
+			
+			any_country = {
+				limit = {
+					exists = yes
+					is_secondary_power = yes
+					NOT = {
+						tag = JAP
+					}
+				}
+				treasury = 60000
+			}
+			any_country = {
+				limit = {
+					exists = yes
+					is_secondary_power = no
+					is_greater_power = no
+					NOT = {
+						tag = VIN
+					}
+				}
+				treasury = 20000
+			}
+	
+			any_country = { limit = { is_greater_power = yes } capitalists = { money = 1000 } aristocrats = { money = 500 } artisans = { money = 200 } }
+			any_country = { limit = { is_secondary_power = yes } capitalists = { money = 800 } aristocrats = { money = 400 } artisans = { money = 100 } }
+			any_country = {
+				limit = { is_greater_power = no is_secondary_power = no civilized = yes }
+				capitalists = { money = 500 } aristocrats = { money = 200 } artisans = { money = 50 } 
+			}
+			
+			set_global_flag = money_setup_done
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
