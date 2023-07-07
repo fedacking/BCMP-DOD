@@ -18,32 +18,32 @@ army = {
 	name = "First Army of Poland"
 	location = 703
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name= "1. Huzar"
+		type = hussar
 		home = 703
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name= "1. Artyleria"
+		type = artillery
 		home = 703
 	}
 
 	regiment = {
-		name= "3.1st Division"
-		type = infantry
-		home = 703
-	}
-	
-	regiment = {
-		name= "4.1st Division"
+		name= "2. Artyleria"
 		type = artillery
 		home = 703
 	}
 	
 	regiment = {
-		name= "5.1st Division"
-		type = hussar
+		name= "3. Artyleria"
+		type = artillery
+		home = 703
+	}
+	
+	regiment = {
+		name= "4. Artyleria"
+		type = artillery
 		home = 703
 	}
 }
@@ -52,32 +52,32 @@ army = {
 	name = "Second Army of Poland"
 	location = 690
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name= "1. Huzar"
+		type = hussar
 		home = 690
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name= "1. Artyleria"
+		type = artillery
 		home = 690
 	}
 
 	regiment = {
-		name= "3.1st Division"
-		type = infantry
-		home = 690
-	}
-	
-	regiment = {
-		name= "4.1st Division"
+		name= "2. Artyleria"
 		type = artillery
 		home = 690
 	}
 	
 	regiment = {
-		name= "5.1st Division"
-		type = hussar
+		name= "3. Artyleria"
+		type = artillery
+		home = 690
+	}
+	
+	regiment = {
+		name= "4. Artyleria"
+		type = artillery
 		home = 690
 	}
 }
@@ -86,32 +86,32 @@ army = {
 	name = "Third Army of Poland"
 	location = 365
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name= "1. Huzar"
+		type = hussar
 		home = 365
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name= "1. Artyleria"
+		type = artillery
 		home = 365
 	}
 
 	regiment = {
-		name= "3.1st Division"
-		type = infantry
-		home = 365
-	}
-	
-	regiment = {
-		name= "4.1st Division"
+		name= "2. Artyleria"
 		type = artillery
 		home = 365
 	}
 	
 	regiment = {
-		name= "5.1st Division"
-		type = hussar
+		name= "3. Artyleria"
+		type = artillery
+		home = 365
+	}
+	
+	regiment = {
+		name= "4. Artyleria"
+		type = artillery
 		home = 365
 	}
 }
@@ -120,32 +120,32 @@ army = {
 	name = "Fourth Army of Poland"
 	location = 718
 	regiment = {
-		name= "1.1st Division"
-		type = infantry
+		name= "1. Huzar"
+		type = hussar
 		home = 718
 	}
 
 	regiment = {
-		name= "2.1st Division"
-		type = infantry
+		name= "1. Artyleria"
+		type = artillery
 		home = 718
 	}
 
 	regiment = {
-		name= "3.1st Division"
-		type = infantry
-		home = 718
-	}
-	
-	regiment = {
-		name= "4.1st Division"
+		name= "2. Artyleria"
 		type = artillery
 		home = 718
 	}
 	
 	regiment = {
-		name= "5.1st Division"
-		type = hussar
+		name= "3. Artyleria"
+		type = artillery
+		home = 718
+	}
+	
+	regiment = {
+		name= "4. Artyleria"
+		type = artillery
 		home = 718
 	}
 }

@@ -23,40 +23,40 @@ leader = {
 }
 
 army = {
-	name = "Army Corps of the infantry"
+	name = "Pervaya Armiya"
 	location = 1008
 	regiment = {
-		name= "1.1-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
+		name= "1. Gusar"
+		type = hussar
 		home = 943
 	}
 
 	regiment = {
-		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
+		name= "1. Artilleriya"
+		type = artillery
 		home = 1008
 	}
 
 	regiment = {
-		name= "3.1-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
+		name= "2. Artilleriya"
+		type = artillery
 		home = 1008
 	}
 
 	regiment = {
-		name= "1.2-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
+		name= "3. Artilleriya"
+		type = artillery
 		home = 1008
 	}
 
 	regiment = {
-		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
+		name= "4. Artilleriya"
+		type = artillery
 		home = 1008
 	}
 
 	regiment = {
-		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
+		name= "5. Artilleriya"
 		type = artillery
 		home = 1008
 	}
@@ -64,103 +64,100 @@ army = {
 }
 
 army = {
-	name = "infantrys hussar Corps"
+	name = "Vtoraya Armiya"
 	location = 1010
 	regiment = {
-		name= "1.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		name= "1. Gusar"
 		type = hussar
 		home = 1008
 	}
 
 	regiment = {
-		name= "2.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = hussar
+		name= "1. Artilleriya"
+		type = artillery
 		home = 1009
 	}
 
 	regiment = {
-		name= "3.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = hussar
+		name= "2. Artilleriya"
+		type = artillery
 		home = 1009
 	}
 
 	regiment = {
-		name= "4.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = cuirassier
+		name= "3. Artilleriya"
+		type = artillery
 		home = 998
 	}
 
 	regiment = {
-		name= "1.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = hussar
+		name= "4. Artilleriya"
+		type = artillery
 		home = 1008
 	}
 
 	regiment = {
-		name= "2.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = hussar
+		name= "5. Artilleriya"
+		type = artillery
 		home = 1037
 	}
 
 	regiment = {
-		name= "3.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = hussar
+		name= "6. Artilleriya"
+		type = artillery
 		home = 1037
 	}
 }
 
 army = {
-	name = "Grenadier Corps"
+	name = "Tret'ya Armiya"
 	location = 1011
 	regiment = {
-		name= "1.1-ya Grenaderskaya Diviziya"
-		type = infantry
+		name= "1. Gusar"
+		type = hussar
 		home = 1037
 	}
 
 	regiment = {
-		name= "2.1-ya Grenaderskaya Diviziya"
-		type = infantry
+		name= "1. Artilleriya"
+		type = artillery
 		home = 1034
 	}
 
 	regiment = {
-		name= "3.1-ya Grenaderskaya Diviziya"
+		name= "2. Artilleriya"
 		type = artillery
 		home = 1020
 	}
 
 	regiment = {
-		name= "1.2-ya Grenaderskaya Diviziya"
-		type = infantry
+		name= "3. Artilleriya"
+		type = artillery
 		home = 1020
 	}
 
 	regiment = {
-		name= "2.2-ya Grenaderskaya Diviziya"
-		type = infantry
+		name= "4. Artilleriya"
+		type = artillery
 		home = 1020
 	}
 
 	regiment = {
-		name= "3.2-ya Grenaderskaya Diviziya"
-		type = infantry
+		name= "5. Artilleriya"
+		type = artillery
 		home = 1039
 	}
 
 	
 	regiment = {
-		name= "1.1-ya Kavalerijskaya Diviziya"
-		type = hussar
+		name= "6. Artilleriya"
+		type = artillery
 		home = 1039
 	}
 
 	regiment = {
-		name= "2.2-ya Kavalerijskaya Diviziya"
-		type = hussar
+		name= "7. Artilleriya"
+		type = artillery
 		home = 1008
 	}
-
-
-
 }
