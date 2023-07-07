@@ -18,25 +18,25 @@ army = {
 	name = "I. Korps"
 	location = 599
 	regiment = {
-		name= "1. Kgl. Bayer. Infanteriebrigade"
-		type = infantry
+		name= "1. Husar"
+		type = hussar
 		home = 595
 	}
 
 	regiment = {
-		name= "2. Kgl. Bayer. Infanteriebrigade"
-		type = infantry
+		name= "1. Artillerie"
+		type = artillery
 		home = 595
 	}
 
 	regiment = {
-		name= "3. Kgl. Bayer. Infanteriebrigade"
-		type = infantry
+		name= "2. Artillerie"
+		type = artillery
 		home = 595
 	}
 
 	regiment = {
-		name= "4. Kgl. Bayer. Infanteriebrigade"
+		name= "3. Artillerie"
 		type = artillery
 		home = 599
 	}
@@ -47,14 +47,14 @@ army = {
 	name = "II. Korps"
 	location = 595
 	regiment = {
-		name= "5. Kgl. Bayer. Infanteriebrigade"
-		type = infantry
+		name= "1. Artillerie"
+		type = artillery
 		home = 599
 	}
 
 	regiment = {
-		name= "6. Kgl. Bayer. Infanteriebrigade"
-		type = infantry
+		name= "2. Artillerie"
+		type = artillery
 		home = 599
 	}
 }
