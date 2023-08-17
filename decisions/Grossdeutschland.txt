@@ -392,6 +392,25 @@ political_decisions = {
 		}
 	}
 	
+	form_elbian_confederation_easy = {	
+		potential = { 
+			tag = BOH
+		}		
+		allow = {
+			war = no
+			revolution_n_counterrevolution = 1
+		}	
+		effect = { 
+			set_global_flag = cae_formed
+			change_tag = CAE
+			add_accepted_culture = north_german
+			add_accepted_culture = pomeranian
+		}
+		ai_will_do = {
+			factor = 1 
+		}
+	}
+	
 	integrate_prussia = { 
 		
 	potential = { 
